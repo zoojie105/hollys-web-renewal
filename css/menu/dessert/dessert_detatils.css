@@ -1,0 +1,495 @@
+/*lnb*/
+.lnb_wrap{height:205px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb{width:1200px;margin:auto;position:relative; z-index:1;}
+
+.lnb_top{height:105px; margin:0 auto 10px; padding-top:50px}
+.lnb a{height:100%; display:block}
+.lnb dt{width:176px; height:34px; background:url(../../../images/sub/menu/dessert/lnb_title.jpg) ;text-indent:-9999px;  margin:0 auto 20px}
+.main_txt{width:1200px; text-align:center; font-size:20px;}
+
+.lnb_bottom{width:746px; height:26px;margin:auto}
+
+.lnb1{width:35px; height:19px;background:url(../../../images/sub/menu//lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb1:hover{width:35px; height:19px;background:url(../../../images/sub/menu/lnb1_red.jpg) no-repeat}
+     
+
+.lnb2{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb2:hover{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb3:hover{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb4:hover{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4_red.jpg) no-repeat}
+
+
+
+/*tab menu*/
+.tab_wrap{width:1200px; background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width:530px; margin:10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+
+.tab1{width:34px; height:30px; background:url(../../../images/sub/menu/dessert/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab1 a:hover{width:34px; height:30px; background:url(../../../images/sub/menu/dessert/tap1_hover.jpg) no-repeat}
+
+.tab2{width:35px; height:29px; background:url(../../../images/sub/menu/dessert/tap2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.tab2 a:hover{width:35px; height:29px; background:url(../../../images/sub/menu/dessert/tap2_hover.jpg) no-repeat}
+
+.tab3{width:52px; height:29px; background:url(../../../images/sub/menu/dessert/tap3.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab3 a:hover{width:52px; height:29px; background:url(../../../images/sub/menu/dessert/tap3_hover.jpg) no-repeat}
+
+.tab4{width:109px; height:29px; background:url(../../../images/sub/menu/dessert/tap4.jpg) no-repeat; text-indent:-9999px; float:left}
+.tab4 a:hover{width:109px; height:29px; background:url(../../../images/sub/menu/dessert/tap4_hover.jpg) no-repeat}
+
+
+
+
+
+
+    /*locate*/
+    .locate{width:1200px;margin:auto; position:relative;margin-top: 30px; height:21px;}
+    .locate1{float:left; margin-left:100px}
+    .locate1:after{content:">"; margin:0 9px 0 5px}
+    .locate2{float:left}
+    .locate2:after{content:">"; margin:0 9px 0 5px}
+    .locate3{float:left}
+    .locate3:after{content:">"; margin:0 9px 0 5px}
+    .locate4{float:left}
+ 
+
+
+
+/*디저트 정보*/
+.tag{position:absolute; top:-40px}
+.new{width:70px; height:29px; background:url(../../../images/sub/menu/new.jpg)no-repeat; float:left; margin-right:5px}
+
+.season{width:159px; height:29px; background:url(../../../images/sub/menu/season.jpg)no-repeat; float:left}
+.n_season{width:159px; height:29px; background:url(../../../images/sub/menu/season.jpg)no-repeat; float:left}
+
+
+.txt1{text-indent:0;margin:15px 0 5px 0; font-size:24px; font-weight:bold}
+.txt2, dl{text-indent:0; font-size:16px}
+table{margin-top:15px; border-top:1px solid #6f6f6f;border-bottom:1px solid #6f6f6f; font-size:14px}
+
+.info{margin-top:60px; height:46px}
+.info_br{margin-top:35px; height:46px}
+
+.info_txt{height:23px}
+.info1, .info2{float:left}
+.info1:after{content:"/"; margin:0 5px}
+td{height:30px; text-align:center}
+th{width:90px; height:30px; text-align:center}
+.agy{position:absolute; top:310px; left:310px; font-size:14px}
+
+
+
+/*1인) 피치딸기빙수*/
+.bing1_wrap{width:1200px; margin:auto}
+.bing1{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/bing1.jpg)no-repeat 60px 27px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.bing1 h2{width:269px; height:33px;background:url(../../../images/sub/menu/dessert/bing1_title.jpg)no-repeat}
+
+/*2인) 피치딸기빙수*/
+.bing2_wrap{width:1200px; margin:auto}
+.bing2{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/bing2.jpg)no-repeat 0 27px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.bing2 h2{width:269px; height:33px;background:url(../../../images/sub/menu/dessert/bing2_title.jpg)no-repeat}
+
+/*1인) 애플망고빙수*/
+.bing3_wrap{width:1200px; margin:auto}
+.bing3{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/bing3.jpg)no-repeat 60px 27px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.bing3 h2{width:269px; height:33px; background:url(../../../images/sub/menu/dessert/bing3_title.jpg)no-repeat}
+
+/*2인) 애플망고빙수*/
+.bing4_wrap{width:1200px; margin:auto}
+.bing4{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/bing4.jpg)no-repeat 0 27px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.bing4 h2{width:269px; height:33px; background:url(../../../images/sub/menu/dessert/bing4_title.jpg)no-repeat}
+
+/*1인)우리눈꽃팥빙수*/
+.bing5_wrap{width:1200px; margin:auto}
+.bing5{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/bing5.jpg)no-repeat 60px 27px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.bing5 h2{width:300px; height:33px; background:url(../../../images/sub/menu/dessert/bing5_title.jpg)no-repeat}
+
+/*2인)우리눈꽃팥빙수*/
+.bing6_wrap{width:1200px; margin:auto}
+.bing6{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/bing6.jpg)no-repeat 0 27px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.bing6 h2{width:300px; height:33px; background:url(../../../images/sub/menu/dessert/bing6_title.jpg)no-repeat}
+
+
+
+
+
+/*크림치즈비스켓&딸기잼*/
+.de1_wrap{width:1200px; margin:auto}
+.de1{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert1.jpg)no-repeat 0 80px; text-indent:-9999px; margin:100px 0 0 105px; padding-left:310px; box-sizing:border-box; position:relative}
+.de1 h2{width:426px; height:33px; background:url(../../../images/sub/menu/dessert/dessert1_title.jpg)no-repeat}
+
+/*표곰이 크림치즈 하우스*/
+.de2_wrap{width:1200px; margin:auto}
+.de2{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert2.jpg)no-repeat 0 80px; text-indent:-9999px; margin:100px 0 0 105px; padding-left:310px; box-sizing:border-box; position:relative}
+.de2 h2{width:357px; height:33px; background:url(../../../images/sub/menu/dessert/dessert2_title.jpg)no-repeat}
+
+/*곰표 아이스크림 크로플 */
+.de3_wrap{width:1200px; margin:auto}
+.de3{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert3.jpg)no-repeat 0 48px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de3 h2{width:391px; height:33px; background:url(../../../images/sub/menu/dessert/dessert3_title.jpg)no-repeat}
+
+/*딸기 생크림*/
+.de4_wrap{width:1200px; margin:auto}
+.de4{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert4.jpg)no-repeat 0 14px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de4 h2{width:174px; height:33px; background:url(../../../images/sub/menu/dessert/dessert4_title.jpg)no-repeat}
+
+/*블루베리 치즈 라운드*/
+.de5_wrap{width:1200px; margin:auto}
+.de5{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert5.jpg)no-repeat 0 14px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de5 h2{width:367px; height:33px; background:url(../../../images/sub/menu/dessert/dessert5_title.jpg)no-repeat}
+
+/*리얼벨지안 초코 케익*/
+.de7_wrap{width:1200px; margin:auto}
+.de7{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert7.jpg)no-repeat 16px 78px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de7 h2{width:317px; height:33px; background:url(../../../images/sub/menu/dessert/dessert7_title.jpg)no-repeat}
+
+/*뉴욕치즈*/
+.de9_wrap{width:1200px; margin:auto}
+.de9{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert9.jpg)no-repeat 16px 40px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de9 h2{width:135px; height:33px; background:url(../../../images/sub/menu/dessert/dessert9_title.jpg)no-repeat}
+
+/*아메리칸 마카다미아 쿠키*/
+.de10_wrap{width:1200px; margin:auto}
+.de10{width:920px; height:230px; background:url(../../../images/sub/menu/dessert/dessert10.jpg)no-repeat 15px 0; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de10 h2{width:387px; height:33px; background:url(../../../images/sub/menu/dessert/dessert10_title.jpg)no-repeat}
+
+/*아메리칸 초콜릿 청크쿠키*/
+.de11_wrap{width:1200px; margin:auto}
+.de11{width:920px; height:230px; background:url(../../../images/sub/menu/dessert/dessert11.jpg)no-repeat 15px 0; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de11 h2{width:398px; height:33px; background:url(../../../images/sub/menu/dessert/dessert11_title.jpg)no-repeat}
+
+/*초코빅카롱*/
+.de12_wrap{width:1200px; margin:auto}
+.de12{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert12.jpg)no-repeat 15px 115px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de12 h2{width:179px; height:33px; background:url(../../../images/sub/menu/dessert/dessert12_title.jpg)no-repeat}
+
+/*산딸기 빅카롱*/
+.de13_wrap{width:1200px; margin:auto}
+.de13{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert13.jpg)no-repeat 15px 115px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de13 h2{width:211px; height:33px; background:url(../../../images/sub/menu/dessert/dessert13_title.jpg)no-repeat}
+
+/*베이컨 에그 데니쉬*/
+.de15_wrap{width:1200px; margin:auto}
+.de15{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert15.jpg)no-repeat 0 115px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de15 h2{width:285px; height:33px; background:url(../../../images/sub/menu/dessert/dessert15_title.jpg)no-repeat}
+
+/*허니바게트볼*/
+.de16_wrap{width:1200px; margin:auto}
+.de16{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert16.jpg)no-repeat 0 115px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de16 h2{width:200px; height:33px; background:url(../../../images/sub/menu/dessert/dessert16_title.jpg)no-repeat}
+
+/*초코칩 스콘*/
+.de17_wrap{width:1200px; margin:auto}
+.de17{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert17.jpg)no-repeat 0 98px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de17 h2{width:178px; height:33px; background:url(../../../images/sub/menu/dessert/dessert17_title.jpg)no-repeat}
+
+/*크랜베리 스콘*/
+.de18_wrap{width:1200px; margin:auto}
+.de18{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/dessert18.jpg)no-repeat 0 98px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.de18 h2{width:211px; height:33px; background:url(../../../images/sub/menu/dessert/dessert18_title.jpg)no-repeat}
+
+
+
+/*반반 마요(에그/감자)*/
+.meal3_wrap{width:1200px; margin:auto}
+.meal3{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal3.jpg)no-repeat 0 90px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal3 h2{width:325px; height:33px; background:url(../../../images/sub/menu/dessert/meal3_title.jpg)no-repeat}
+
+/*에그마요*/
+.meal4_wrap{width:1200px; margin:auto}
+.meal4{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal4.jpg)no-repeat 0 90px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal4 h2{width:143px; height:33px; background:url(../../../images/sub/menu/dessert/meal4_title.jpg)no-repeat}
+
+/*비프 함박 스테이크*/
+.meal5_wrap{width:1200px; margin:auto}
+.meal5{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal5.jpg)no-repeat 0 90px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal5 h2{width:287px; height:33px; background:url(../../../images/sub/menu/dessert/meal5_title.jpg)no-repeat}
+
+/*수플레 오믈렛 라이스*/
+.meal6_wrap{width:1200px; margin:auto}
+.meal6{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal6.jpg)no-repeat 0 90px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal6 h2{width:324px; height:33px; background:url(../../../images/sub/menu/dessert/meal6_title.jpg)no-repeat}
+
+/*바삭 불고기 & 트리플 치즈 치킨 퀘사디아*/
+.meal8_wrap{width:1200px; margin:auto}
+.meal8{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal8.jpg)no-repeat 0 100px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal8 h2{width:402px; height:87px; background:url(../../../images/sub/menu/dessert/meal8_title.jpg)no-repeat}
+
+/*미트볼 칠리 치즈*/
+.meal9_wrap{width:1200px; margin:auto}
+.meal9{width:1020px; height:370px; background:url(../../../images/sub/menu/dessert/meal9.jpg)no-repeat 0 100px; text-indent:-9999px; margin:100px auto 0; padding-left:350px; box-sizing:border-box; position:relative}
+.meal9 h2{width:253px; height:33px; background:url(../../../images/sub/menu/dessert/meal9_title.jpg)no-repeat}
+
+/*페스토 햄 모짜렐라*/
+.meal10_wrap{width:1200px; margin:auto}
+.meal10{width:1020px; height:370px; background:url(../../../images/sub/menu/dessert/meal10.jpg)no-repeat 0 90px; text-indent:-9999px; margin:100px auto 0; padding-left:350px; box-sizing:border-box; position:relative}
+.meal10 h2{width:290px; height:33px; background:url(../../../images/sub/menu/dessert/meal10_title.jpg)no-repeat}
+
+/*올리브 베이컨 치아바타*/
+.meal11_wrap{width:1200px; margin:auto}
+.meal11{width:1020px; height:370px; background:url(../../../images/sub/menu/dessert/meal11.jpg)no-repeat 0 100px; text-indent:-9999px; margin:100px auto 0; padding-left:350px; box-sizing:border-box; position:relative}
+.meal11 h2{width:358px; height:33px; background:url(../../../images/sub/menu/dessert/meal11_title.jpg)no-repeat}
+
+/*스파이시 씨푸드 리조또*/
+.meal12_wrap{width:1200px; margin:auto}
+.meal12{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal12.jpg)no-repeat 0 100px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal12 h2{width:358px; height:33px; background:url(../../../images/sub/menu/dessert/meal12_title.jpg)no-repeat}
+
+/*치킨 크림 리조또*/
+.meal13_wrap{width:1200px; margin:auto}
+.meal13{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal13.jpg)no-repeat 0 100px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal13 h2{width:255px; height:33px; background:url(../../../images/sub/menu/dessert/meal13_title.jpg)no-repeat}
+
+/*크로크무슈*/
+.meal14_wrap{width:1200px; margin:auto}
+.meal14{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal14.jpg)no-repeat 0 100px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal14 h2{width:168px; height:33px; background:url(../../../images/sub/menu/dessert/meal14_title.jpg)no-repeat}
+
+/*머쉬룸 수프볼*/
+.meal15_wrap{width:1200px; margin:auto}
+.meal15{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal15.jpg)no-repeat 0 100px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal15 h2{width:208px; height:33px; background:url(../../../images/sub/menu/dessert/meal15_title.jpg)no-repeat}
+
+
+/*플레인 베이글 & 크림치즈*/
+.meal17_wrap{width:1200px; margin:auto}
+.meal17{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal17.jpg)no-repeat 0 60px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal17 h2{width:373px; height:33px; background:url(../../../images/sub/menu/dessert/meal17_title.jpg)no-repeat}
+
+/*블루베리 베이글 & 크림치즈*/
+.meal18_wrap{width:1200px; margin:auto}
+.meal18{width:920px; height:370px; background:url(../../../images/sub/menu/dessert/meal18.jpg)no-repeat 0 60px; text-indent:-9999px; margin:100px auto 0; padding-left:310px; box-sizing:border-box; position:relative}
+.meal18 h2{width:407px; height:33px; background:url(../../../images/sub/menu/dessert/meal18_title.jpg)no-repeat}
+
+
+
+/*other*/
+.other_wrap{width:1200px;margin:0 auto 100px; position:relative}
+.other{width:750px; height:290px; margin:auto}
+.other h2{width:649px; height:24px; background:url(../../../images/sub/menu/other.jpg);text-indent:-9999px; margin:100px auto 90px}
+
+.prev{width:20px; height:37px; background:url(../../../images/sub/menu/prev.jpg);text-indent:-9999px; position:absolute; top:210px; left:50px}
+.next{width:20px; height:37px; background:url(../../../images/sub/menu/next.jpg);text-indent:-9999px; position:absolute; top:210px; right:50px}
+.other_wrap a{height:100%; display:block}
+
+
+
+
+
+.other1{text-align:center; height:200px}
+.other1_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img0.jpg)no-repeat center top;float:left; margin-right:75px; position:relative}
+.other1_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other1_1:hover{transform:scale(1.1, 1.1)}
+
+.other1_2{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img1.jpg)no-repeat center top;float:left; margin-right:75px; position:relative}
+.other1_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other1_2:hover{transform:scale(1.1, 1.1)}
+
+.other1_3{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img2.jpg)no-repeat center top;float:left; margin-right:75px; position:relative}
+.other1_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other1_3:hover{transform:scale(1.1, 1.1)}
+
+.other1_4{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img3.jpg)no-repeat center top;float:left; position:relative}
+.other1_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other1_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+.other2{text-align:center; height:200px}
+.other2_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img4.jpg)no-repeat center top;float:left; margin-right:75px; position:relative}
+.other2_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other2_1:hover{transform:scale(1.1, 1.1)}
+
+.other2_2{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img5.jpg)no-repeat center top;float:left; margin-right:75px; position:relative}
+.other2_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other2_2:hover{transform:scale(1.1, 1.1)}
+
+.other2_3{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img6.jpg)no-repeat center 55px;float:left; margin-right:75px; position:relative}
+.other2_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other2_3:hover{transform:scale(1.1, 1.1)}
+
+.other2_4{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img7.jpg)no-repeat center 56px;float:left; position:relative}
+.other2_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other2_4:hover{transform:scale(1.1, 1.1)}
+
+
+.other3{text-align:center; height:200px}
+.other3_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img8.jpg)no-repeat center 50px;float:left; margin-right:75px; position:relative}
+.other3_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other3_1:hover{transform:scale(1.1, 1.1)}
+
+.other3_2{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img9.jpg)no-repeat center 33px;float:left; margin-right:75px; position:relative}
+.other3_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other3_2:hover{transform:scale(1.1, 1.1)}
+
+.other3_3{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img10.jpg)no-repeat center 25px;float:left; margin-right:75px; position:relative}
+.other3_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.other3_3:hover{transform:scale(1.1, 1.1)}
+
+.other4{text-align:center; height:200px}
+
+.other4_1{width:120px; height:180px; background:url(../../../images/sub/menu/dessert/dessert_img12.jpg)no-repeat center 18px;float:left; margin:20px 75px 0 0; position:relative}
+.other4_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other4_1:hover{transform:scale(1.1, 1.1)}
+
+.other4_3{width:120px; height:180px; background:url(../../../images/sub/menu/dessert/dessert_img14.jpg)no-repeat center 12px;float:left; margin:20px 75px 0 0; position:relative}
+.other4_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other4_3:hover{transform:scale(1.1, 1.1)}
+
+.other4_4{width:120px; height:180px; background:url(../../../images/sub/menu/dessert/dessert_img15.jpg)no-repeat center 35px;float:left; margin-top:20px; position:relative}
+.other4_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other4_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+.other5{text-align:center; height:200px}
+.other5_1{width:120px; height:180px; background:url(../../../images/sub/menu/dessert/dessert_img16.jpg)no-repeat center 35px;float:left; margin:20px 75px 0 0; position:relative}
+.other5_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other5_1:hover{transform:scale(1.1, 1.1)}
+
+.other5_2{width:120px; height:180px; background:url(../../../images/sub/menu/dessert/dessert_img17.jpg)no-repeat center 40px;float:left; margin:20px 75px 0 0; position:relative}
+.other5_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other5_2:hover{transform:scale(1.1, 1.1)}
+
+.other5_3{width:120px; height:180px; background:url(../../../images/sub/menu/dessert/dessert_img18.jpg)no-repeat center 40px;float:left; margin:20px 75px 0 0; position:relative}
+.other5_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other5_3:hover{transform:scale(1.1, 1.1)}
+
+.other6{text-align:center; height:20px}
+.other6_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img20.jpg)no-repeat center 34px;float:left; margin:50px 75px 0 0; position:relative}
+.other6_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:118px; box-sizing:border-box}
+.other6_1:hover{transform:scale(1.1, 1.1)}
+
+.other6_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img21.jpg)no-repeat center 36px;float:left; margin:50px 75px 0 0; position:relative}
+.other6_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:118px; box-sizing:border-box}
+.other6_2:hover{transform:scale(1.1, 1.1)}
+
+.other6_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img22.jpg)no-repeat center 24px;float:left; margin:50px 75px 0 0; position:relative}
+.other6_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:118px; box-sizing:border-box}
+.other6_3:hover{transform:scale(1.1, 1.1)}
+
+.other6_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img23.jpg)no-repeat center 16px;float:left; margin-top:50px; position:relative}
+.other6_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:118px; box-sizing:border-box}
+.other6_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+.other7{text-align:center; height:200px}
+.other7_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img26.jpg)no-repeat center top;float:left; margin:50px 75px 0 0; position:relative}
+.other7_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:118px; box-sizing:border-box}
+.other7_3:hover{transform:scale(1.1, 1.1)}
+
+.other7_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img27.jpg)no-repeat center top;float:left; margin-top:50px; position:relative}
+.other7_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:118px; box-sizing:border-box}
+.other7_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+.other8{text-align:center; height:200px}
+.other8_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img28.jpg)no-repeat center 20px;float:left; margin:50px 75px 0 0; position:relative}
+.other8_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other8_1:hover{transform:scale(1.1, 1.1)}
+
+.other8_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img29.jpg)no-repeat center 20px;float:left; margin:50px 75px 0 0; position:relative}
+.other8_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other8_2:hover{transform:scale(1.1, 1.1)}
+
+.other8_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img31.jpg)no-repeat center 20px;float:left; margin-top:50px; position:relative}
+.other8_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other8_4:hover{transform:scale(1.1, 1.1)}
+
+
+.other9{text-align:center; height:200px}
+.other9_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img32.jpg)no-repeat center 40px;float:left; margin:50px 75px 0 0; position:relative}
+.other9_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other9_1:hover{transform:scale(1.1, 1.1)}
+
+.other9_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img33.jpg)no-repeat center 40px;float:left; margin:50px 75px 0 0; position:relative}
+.other9_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other9_2:hover{transform:scale(1.1, 1.1)}
+
+.other9_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img34.jpg)no-repeat center 40px;float:left; margin:50px 75px 0 0; position:relative}
+.other9_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other9_3:hover{transform:scale(1.1, 1.1)}
+
+.other9_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img35.jpg)no-repeat center 25px;float:left; margin-top:50px; position:relative}
+.other9_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other9_4:hover{transform:scale(1.1, 1.1)}
+
+.other10{text-align:center; height:200px}
+.other10_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img36.jpg)no-repeat center 20px;float:left; margin:50px 75px 0 0; position:relative}
+.other10_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other10_1:hover{transform:scale(1.1, 1.1)}
+
+.other10_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img37.jpg)no-repeat center 25px;float:left; margin:50px 75px 0 0; position:relative}
+.other10_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other10_2:hover{transform:scale(1.1, 1.1)}
+
+.other10_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img38.jpg)no-repeat center 15px;float:left; margin:50px 75px 0 0; position:relative}
+.other10_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other10_3:hover{transform:scale(1.1, 1.1)}
+
+.other10_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img40.jpg)no-repeat center 10px;float:left; margin-top:50px; position:relative}
+.other10_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other10_4:hover{transform:scale(1.1, 1.1)}
+
+.other11{text-align:center; height:200px}
+.other11_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img41.jpg)no-repeat center 10px;float:left; margin-top:50px; position:relative}
+.other11_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:110px; box-sizing:border-box}
+.other11_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+/*quick_menu*/
+.quick_wrap{height:400px; background:url(../../../images/brick_wall.jpg); border-top:1px solid #fff}
+.quick{width:950px; height:240px; margin:auto}
+.quick h2{width:218px; height:30px; background:url(../../../images/quick_title.png)no-repeat; text-indent:-9999px; margin:80px auto 50px}
+
+.quick a{height:100%; display:block}
+.quick_txt1{width:158px; height:158px; background:url(../../../images/quick_img1.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt1:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt2{width:158px; height:158px; background:url(../../../images/quick_img2.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt2:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt3{width:158px; height:158px; background:url(../../../images/quick_img3.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt3:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt4{width:158px; height:158px; background:url(../../../images/quick_img4.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt4:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt5{width:158px; height:158px; background:url(../../../images/quick_img5.png); text-indent:-9999px;float:left}
+.quick_txt5:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+
+/*footer*/
+.footer_wrap{height:200px; background:#bd000d}
+.footer{width:915px; height:200px; margin:auto;}
+.footer_top{font-size:16px; font-weight: bold; padding-top:27px}
+.footer_top a{height:100%; display:block; color:#fff}
+.foot_txt1{float:left; margin-right:65px}
+.foot_txt2{float:left; margin-right:65px}
+.foot_txt3{float:left; margin-right:65px}
+.foot_txt4{float:left; margin-right:65px}
+.foot_txt5{float:left; margin-right:65px}
+.foot_txt6{float:left}
+
+.footer_bottom, address a{color:#e5e5e5}
+.foot_txt_wrap1{margin-top:35px; overflow:hidden}
+.foot_bottom_txt1{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt2{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt3{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt4{float:left; margin-bottom: 10px}
+.foot_txt_wrap2{height:33px}
+
+
+address{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt5{float:left;}

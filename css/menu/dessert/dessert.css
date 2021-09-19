@@ -1,0 +1,475 @@
+/*lnb*/
+.lnb_wrap{height:205px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb{width:1200px;margin:auto;position:relative; z-index:1;}
+
+.lnb_top{height:105px; margin:0 auto 10px; padding-top:50px}
+.lnb a{height:100%; display:block}
+.lnb dt{width:176px; height:34px; background:url(../../../images/sub/menu/dessert/lnb_title.jpg) ;text-indent:-9999px;  margin:0 auto 20px}
+.main_txt{width:1200px; text-align:center; font-size:20px;}
+
+.lnb_bottom{width:746px; height:26px;margin:auto}
+
+.lnb1{width:35px; height:19px;background:url(../../../images/sub/menu//lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb1:hover{width:35px; height:19px;background:url(../../../images/sub/menu/lnb1_red.jpg) no-repeat}
+     
+
+.lnb2{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb2:hover{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb3:hover{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb4:hover{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4_red.jpg) no-repeat}
+
+
+
+/*tab menu*/
+.tab_wrap{width:1200px; background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width:530px; margin:10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+
+.tab1{width:34px; height:30px; background:url(../../../images/sub/menu/dessert/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab1 a:hover{width:34px; height:30px; background:url(../../../images/sub/menu/dessert/tap1_hover.jpg) no-repeat}
+
+.tab2{width:35px; height:29px; background:url(../../../images/sub/menu/dessert/tap2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.tab2 a:hover{width:35px; height:29px; background:url(../../../images/sub/menu/dessert/tap2_hover.jpg) no-repeat}
+
+.tab3{width:52px; height:29px; background:url(../../../images/sub/menu/dessert/tap3.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab3 a:hover{width:52px; height:29px; background:url(../../../images/sub/menu/dessert/tap3_hover.jpg) no-repeat}
+
+.tab4{width:109px; height:29px; background:url(../../../images/sub/menu/dessert/tap4.jpg) no-repeat; text-indent:-9999px; float:left}
+.tab4 a:hover{width:109px; height:29px; background:url(../../../images/sub/menu/dessert/tap4_hover.jpg) no-repeat}
+
+
+
+
+
+
+    /*locate*/
+    .locate{width:1200px;margin:auto; position:relative;margin-top: 30px; height:21px;}
+    .locate1{float:left; margin-left:100px}
+    .locate1:after{content:">"; margin:0 9px 0 5px}
+    .locate2{float:left}
+    .locate2:after{content:">"; margin:0 9px 0 5px}
+    .locate3{float:left}
+    .locate3:after{content:">"; margin:0 9px 0 5px}
+    .locate4{float:left}
+ 
+    .new{display:block; width:50px; height:20px; background:#ba000d; color:#fff;border-radius:20px; margin: -5px 0 0 -20px; text-align:center}
+
+
+
+.all{width:1200px; margin:auto}
+.de_all{width:920px; margin:80px auto 100px}
+
+.all1{height:200px; margin-bottom:60px}
+    
+.all1_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img0.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all1_1:hover{transform:scale(1.1, 1.1)}
+
+.all1_2{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img1.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all1_2:hover{transform:scale(1.1, 1.1)}
+
+.all1_3{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img2.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all1_3:hover{transform:scale(1.1, 1.1)}
+
+.all1_4{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img3.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all1_4:hover{transform:scale(1.1, 1.1)}
+
+
+.all1_5{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img4.jpg)no-repeat center top;float:left; position:relative}
+.all1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all1_5:hover{transform:scale(1.1, 1.1)}
+
+
+
+.all2{height:200px; margin-bottom:60px}
+
+.all2_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img5.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all2_1:hover{transform:scale(1.1, 1.1)}
+
+.all2_2{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img6.jpg)no-repeat center 55px;float:left; margin-right:80px; position:relative}
+.all2_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all2_2:hover{transform:scale(1.1, 1.1)}
+
+.all2_3{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img7.jpg)no-repeat center 56px;float:left; margin-right:80px; position:relative}
+.all2_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all2_3:hover{transform:scale(1.1, 1.1)}
+
+.all2_4{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img8.jpg)no-repeat center 50px;float:left; margin-right:80px; position:relative}
+.all2_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all2_4:hover{transform:scale(1.1, 1.1)}
+
+.all2_5{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img9.jpg)no-repeat center 33px;float:left; position:relative}
+.all2_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.all2_5:hover{transform:scale(1.1, 1.1)}
+
+.all3{height:170px; margin-bottom:60px}
+
+.all3_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img10.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all3_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.all3_1:hover{transform:scale(1.1, 1.1)}
+
+.all3_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img12.jpg)no-repeat center 18px;float:left; margin-right:80px; position:relative}
+.all3_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.all3_2:hover{transform:scale(1.1, 1.1)}
+
+.all3_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img14.jpg)no-repeat center 12px;float:left; margin-right:80px; position:relative}
+.all3_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.all3_3:hover{transform:scale(1.1, 1.1)}
+
+.all3_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img15.jpg)no-repeat center 35px;float:left; margin-right:80px; position:relative}
+.all3_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all3_4:hover{transform:scale(1.1, 1.1)}
+
+.all3_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img16.jpg)no-repeat center 35px;float:left; position:relative}
+.all3_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all3_5:hover{transform:scale(1.1, 1.1)}
+
+
+.all4{height:170px; margin-bottom:60px}
+
+.all4_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img17.jpg)no-repeat center 40px;float:left; margin-right:80px; position:relative}
+.all4_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all4_1:hover{transform:scale(1.1, 1.1)}
+
+.all4_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img18.jpg)no-repeat center 40px;float:left; margin-right:80px; position:relative}
+.all4_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all4_2:hover{transform:scale(1.1, 1.1)}
+
+.all4_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img20.jpg)no-repeat center 34px;float:left; margin-right:80px; position:relative}
+.all4_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all4_3:hover{transform:scale(1.1, 1.1)}
+
+.all4_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img21.jpg)no-repeat center 36px;float:left; margin-right:80px; position:relative}
+.all4_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all4_4:hover{transform:scale(1.1, 1.1)}
+
+.all4_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img22.jpg)no-repeat center 24px;float:left; position:relative}
+.all4_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all4_5:hover{transform:scale(1.1, 1.1)}
+
+
+.all5{height:160px; margin-bottom:60px}
+
+.all5_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img23.jpg)no-repeat center 16px;float:left; margin-right:80px; position:relative}
+.all5_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.allall5_15_4:hover{transform:scale(1.1, 1.1)}
+
+.all5_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img26.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all5_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all5_2:hover{transform:scale(1.1, 1.1)}
+
+.all5_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img27.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.all5_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all5_3:hover{transform:scale(1.1, 1.1)}
+
+.all5_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img28.jpg)no-repeat center 30px;float:left; margin-right:80px; position:relative}
+.all5_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all5_4:hover{transform:scale(1.1, 1.1)}
+
+.all5_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img29.jpg)no-repeat center 30px;float:left; position:relative}
+.all5_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all5_5:hover{transform:scale(1.1, 1.1)}
+
+
+.all6{height:160px; margin-bottom:60px}
+
+.all6_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img31.jpg)no-repeat center 30px;float:left; margin-right:80px; position:relative}
+.all6_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all6_1:hover{transform:scale(1.1, 1.1)}
+
+.all6_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img32.jpg)no-repeat center 54px;float:left; margin-right:80px; position:relative}
+.all6_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all6_2:hover{transform:scale(1.1, 1.1)}
+
+.all6_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img33.jpg)no-repeat center 54px;float:left; margin-right:75px; position:relative}
+.all6_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all6_3:hover{transform:scale(1.1, 1.1)}
+
+.all6_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img34.jpg)no-repeat center 51px;float:left; margin-right:80px; position:relative}
+.all6_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all6_4:hover{transform:scale(1.1, 1.1)}
+
+.all6_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img35.jpg)no-repeat center 34px;float:left; position:relative}
+.all6_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all6_5:hover{transform:scale(1.1, 1.1)}
+
+
+.all7{height:160px}
+
+.all7_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img36.jpg)no-repeat center 30px;float:left; margin-right:80px; position:relative}
+.all7_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all7_1:hover{transform:scale(1.1, 1.1)}
+
+.all7_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img37.jpg)no-repeat center 35px;float:left; margin-right:80px; position:relative}
+.all7_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all7_2:hover{transform:scale(1.1, 1.1)}
+
+.all7_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img38.jpg)no-repeat center 25px;float:left; margin-right:80px; position:relative}
+.all7_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all7_3:hover{transform:scale(1.1, 1.1)}
+
+.all7_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img40.jpg)no-repeat center 20px;float:left; margin-right:80px; position:relative}
+.all7_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all7_4:hover{transform:scale(1.1, 1.1)}
+
+.all7_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img41.jpg)no-repeat center 20px;float:left; position:relative}
+.all7_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.all7_5:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+/*빙수*/
+.bing{width:1200px; margin:auto}
+.de_bing{width:920px; margin:80px auto 100px}
+
+.bing1{height:200px; margin-bottom:65px}
+    
+.bing1_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img0.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.bing1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.bing1_1:hover{transform:scale(1.1, 1.1)}
+
+.bing1_2{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img1.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.bing1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.bing1_2:hover{transform:scale(1.1, 1.1)}
+
+.bing1_3{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img2.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.bing1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.bing1_3:hover{transform:scale(1.1, 1.1)}
+
+.bing1_4{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img3.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.bing1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.bing1_4:hover{transform:scale(1.1, 1.1)}
+
+
+.bing1_5{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img4.jpg)no-repeat center top;float:left; position:relative}
+.bing1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.bing1_5:hover{transform:scale(1.1, 1.1)}
+
+
+
+.bing2{height:200px; margin-bottom:100px}
+
+.bing2_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img5.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.bing2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.bing2_1:hover{transform:scale(1.1, 1.1)}
+
+
+
+/*디저트*/
+.dessert{width:1200px; margin:auto}
+.de_dessert{width:920px; margin:80px auto 100px}
+
+.dessert1{height:200px; margin-bottom:65px}
+
+.dessert1_1{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img6.jpg)no-repeat center 55px;float:left; margin-right:75px; position:relative; text-align:center}
+.dessert1_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:161px; box-sizing:border-box}
+.dessert1_1:hover{transform:scale(1.1, 1.1)}
+
+.dessert1_2{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img7.jpg)no-repeat center 56px;float:left; margin-right:80px; position:relative}
+.dessert1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.dessert1_2:hover{transform:scale(1.1, 1.1)}
+
+.dessert1_3{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img8.jpg)no-repeat center 50px;float:left; margin-right:80px; position:relative}
+.dessert1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.dessert1_3:hover{transform:scale(1.1, 1.1)}
+
+.dessert1_4{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img9.jpg)no-repeat center 33px;float:left; margin-right:80px; position:relative}
+.dessert1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.dessert1_4:hover{transform:scale(1.1, 1.1)}
+
+.dessert1_5{width:120px; height:200px; background:url(../../../images/sub/menu/dessert/dessert_img10.jpg)no-repeat center 25px;float:left; position:relative}
+.dessert1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:161px; box-sizing:border-box;text-align:center}
+.dessert1_5:hover{transform:scale(1.1, 1.1)}
+
+
+
+.dessert2{height:170px; margin-bottom:65px}
+
+.dessert2_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img12.jpg)no-repeat center 18px;float:left; margin-right:80px; position:relative}
+.dessert2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.dessert2_1:hover{transform:scale(1.1, 1.1)}
+
+.dessert2_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img14.jpg)no-repeat center 12px;float:left; margin-right:80px; position:relative}
+.dessert2_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.dessert2_2:hover{transform:scale(1.1, 1.1)}
+
+.dessert2_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img15.jpg)no-repeat center 55px;float:left; margin-right:80px; position:relative}
+.dessert2_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.dessert2_3:hover{transform:scale(1.1, 1.1)}
+
+.dessert2_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img16.jpg)no-repeat center 55px;float:left; margin-right:80px; position:relative}
+.dessert2_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.dessert2_4:hover{transform:scale(1.1, 1.1)}
+
+.dessert2_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img17.jpg)no-repeat center 40px;float:left; position:relative}
+.dessert2_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.dessert2_5:hover{transform:scale(1.1, 1.1)}
+
+
+.dessert3{height:170px}
+
+.dessert3_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img18.jpg)no-repeat center 40px;float:left; margin-right:80px; position:relative}
+.dessert3_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.dessert3_1:hover{transform:scale(1.1, 1.1)}
+
+.dessert3_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img20.jpg)no-repeat center 34px;float:left; margin-right:80px; position:relative}
+.dessert3_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.dessert3_2:hover{transform:scale(1.1, 1.1)}
+
+.dessert3_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img21.jpg)no-repeat center 36px;float:left; margin-right:80px; position:relative}
+.dessert3_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.dessert3_3:hover{transform:scale(1.1, 1.1)}
+
+.dessert3_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img22.jpg)no-repeat center 24px;float:left; margin-right:80px; position:relative}
+.dessert3_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.dessert3_4:hover{transform:scale(1.1, 1.1)}
+
+.dessert3_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img23.jpg)no-repeat center 16px;float:left; position:relative}
+.dessert3_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.dessert3_5:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+/*샌드위치 식사*/
+
+.meal{width:1200px; margin:auto}
+.de_meal{width:920px; margin:80px auto 100px}
+
+.meal1{height:200px; margin-bottom:65px}
+
+.meal1{height:160px; margin-bottom:65px}
+
+
+
+.meal1_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img26.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.meal1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal1_1:hover{transform:scale(1.1, 1.1)}
+
+.meal1_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img27.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.meal1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal1_2:hover{transform:scale(1.1, 1.1)}
+
+.meal1_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img28.jpg)no-repeat center 30px;float:left; margin-right:80px; position:relative}
+.meal1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal1_3:hover{transform:scale(1.1, 1.1)}
+
+.meal1_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img29.jpg)no-repeat center 30px;float:left; margin-right:75px; position:relative}
+.meal1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal1_4:hover{transform:scale(1.1, 1.1)}
+
+
+.meal1_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img31.jpg)no-repeat center 30px;float:left; position:relative}
+.meal1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal1_5:hover{transform:scale(1.1, 1.1)}
+
+
+.meal2{height:160px; margin-bottom:65px}
+
+.meal2_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img32.jpg)no-repeat center 54px;float:left; margin-right:80px; position:relative}
+.meal2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal2_1:hover{transform:scale(1.1, 1.1)}
+
+.meal2_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img33.jpg)no-repeat center 54px;float:left; margin-right:80px; position:relative}
+.meal2_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal2_2:hover{transform:scale(1.1, 1.1)}
+
+.meal2_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img35.jpg)no-repeat center 34px;float:left; margin-right:80px; position:relative}
+.meal2_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal2_3:hover{transform:scale(1.1, 1.1)}
+
+
+.meal2_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img36.jpg)no-repeat center 30px;float:left; margin-right:80px; position:relative}
+.meal2_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal2_4:hover{transform:scale(1.1, 1.1)}
+
+.meal2_5{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img34.jpg)no-repeat center 51px;float:left; position:relative}
+.meal2_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal2_5:hover{transform:scale(1.1, 1.1)}
+
+
+.meal3{height:160px}
+
+.meal3_1{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img37.jpg)no-repeat center 35px;float:left; margin-right:80px; position:relative}
+.meal3_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal3_1:hover{transform:scale(1.1, 1.1)}
+
+.meal3_2{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img38.jpg)no-repeat center 25px;float:left; margin-right:80px; position:relative}
+.meal3_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal3_2:hover{transform:scale(1.1, 1.1)}
+
+.meal3_3{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img40.jpg)no-repeat center 20px;float:left; margin-right:80px; position:relative}
+.meal3_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal3_3:hover{transform:scale(1.1, 1.1)}
+
+
+.meal3_4{width:120px; height:150px; background:url(../../../images/sub/menu/dessert/dessert_img41.jpg)no-repeat center 20px;float:left; position:relative}
+.meal3_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:118px; box-sizing:border-box;text-align:center}
+.meal3_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+
+
+
+
+
+    /*quick_menu*/
+.quick_wrap{height:400px; background:url(../../../images/brick_wall.jpg); border-top:1px solid #fff}
+.quick{width:950px; height:240px; margin:auto}
+.quick h2{width:218px; height:30px; background:url(../../../images/quick_title.png)no-repeat; text-indent:-9999px; margin:80px auto 50px}
+
+.quick a{height:100%; display:block}
+.quick_txt1{width:158px; height:158px; background:url(../../../images/quick_img1.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt1:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt2{width:158px; height:158px; background:url(../../../images/quick_img2.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt2:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt3{width:158px; height:158px; background:url(../../../images/quick_img3.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt3:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt4{width:158px; height:158px; background:url(../../../images/quick_img4.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt4:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt5{width:158px; height:158px; background:url(../../../images/quick_img5.png); text-indent:-9999px;float:left}
+.quick_txt5:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+
+/*footer*/
+.footer_wrap{height:200px; background:#bd000d}
+.footer{width:915px; height:200px; margin:auto;}
+.footer_top{font-size:16px; font-weight: bold; padding-top:27px}
+.footer_top a{height:100%; display:block; color:#fff}
+.foot_txt1{float:left; margin-right:65px}
+.foot_txt2{float:left; margin-right:65px}
+.foot_txt3{float:left; margin-right:65px}
+.foot_txt4{float:left; margin-right:65px}
+.foot_txt5{float:left; margin-right:65px}
+.foot_txt6{float:left}
+
+.footer_bottom, address a{color:#e5e5e5}
+.foot_txt_wrap1{margin-top:35px; overflow:hidden}
+.foot_bottom_txt1{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt2{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt3{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt4{float:left; margin-bottom: 10px}
+.foot_txt_wrap2{height:33px}
+
+
+address{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt5{float:left;}

@@ -1,0 +1,82 @@
+   /*quick_menu*/
+   .quick_wrap{height:350px; background:url(../../images/brick_wall.jpg); border-top:1px solid #fff}
+   .quick{width:900px; height:240px; margin:auto}
+   .quick h2{width:187px; height:26px; background:url(../../images/quick_title.png)no-repeat; text-indent:-9999px; margin:50px auto 50px}
+   
+   .quick a{height:100%; display:block}
+   .quick_txt1{width:140px; height:140px; background:url(../../images/quick_img1.png); text-indent:-9999px;float:left; margin-right:50px}
+   .quick_txt1:hover{width:140px; height:140px; background:url(../../images/quick_hover.png)}
+   
+   .quick_txt2{width:140px; height:140px; background:url(../../images/quick_img2.png); text-indent:-9999px;float:left; margin-right:50px}
+   .quick_txt2:hover{width:140px; height:140px; background:url(../../images/quick_hover.png)}
+   
+   .quick_txt3{width:140px; height:140px; background:url(../../images/quick_img3.png); text-indent:-9999px;float:left; margin-right:50px}
+   .quick_txt3:hover{width:140px; height:140px; background:url(../../images/quick_hover.png)}
+   
+   .quick_txt4{width:140px; height:140px; background:url(../../images/quick_img4.png); text-indent:-9999px;float:left; margin-right:50px}
+   .quick_txt4:hover{width:140px; height:140px; background:url(../../images/quick_hover.png)}
+   
+   .quick_txt5{width:140px; height:140px; background:url(../../images/quick_img5.png); text-indent:-9999px;float:left}
+   .quick_txt5:hover{width:140px; height:140px; background:url(../../images/quick_hover.png)}
+   
+   
+   @media screen and (max-width: 1024px){
+
+      .quick_wrap{height:330px}
+      .quick{width:755px}
+ 
+      .quick_txt1{width:115px; height:115px; background:url(../../images/1024px/quick_img1.png); margin-right:45px}
+      .quick_txt1:hover{width:115px; height:115px; background:url(../../images/1024px/quick_hover.png)}
+      
+      .quick_txt2{width:115px; height:115px; background:url(../../images/1024px/quick_img2.png); margin-right:45px}
+      .quick_txt2:hover{width:115px; height:115px; background:url(../../images/1024px/quick_hover.png)}
+      
+      .quick_txt3{width:115px; height:115px; background:url(../../images/1024px/quick_img3.png); margin-right:45px}
+      .quick_txt3:hover{width:115px; height:115px; background:url(../../images/1024px/quick_hover.png)}
+      
+      .quick_txt4{width:115px; height:115px; background:url(../../images/1024px/quick_img4.png); margin-right:45px}
+      .quick_txt4:hover{width:115px; height:115px; background:url(../../images/1024px/quick_hover.png)}
+      
+      .quick_txt5{width:115px; height:115px; background:url(../../images/1024px/quick_img5.png)}
+      .quick_txt5:hover{width:115px; height:115px; background:url(../../images/1024px/quick_hover.png)}
+      
+   }
+   @media screen and (max-width: 960px){
+      .quick_wrap{height:300px}
+      .quick{width:735px}
+
+      .quick_txt1{margin-right:40px}
+      .quick_txt2{margin-right:40px}
+      .quick_txt3{margin-right:40px}
+      .quick_txt4{margin-right:40px}
+
+   }
+   /*footer*/
+   .footer_wrap{height:170px; background:#bd000d}
+   .footer{width:890px; margin:auto;}
+   .footer_top{font-size:16px; font-weight: bold; padding-top:27px}
+   .footer_top a{width:100%; display:block; color:#fff}
+   .foot_txt1, .foot_txt2, .foot_txt3, .foot_txt4, .foot_txt5, .foot_txt6{float:left; margin-right:50px}
+   .foot_txt7{float:left}
+   
+   .footer_bottom, address a{color:#e5e5e5}
+   .foot_txt_wrap1{margin-top:35px; overflow:hidden}
+   .foot_bottom_txt1, .foot_bottom_txt2, .foot_bottom_txt3{float:left; margin:0 20px 10px 0}
+   .foot_bottom_txt4{float:left; margin-bottom: 10px}
+   .foot_txt_wrap2{height:33px}
+   
+   
+   address{float:left; margin:0 20px 10px 0}
+   .foot_bottom_txt5{float:left;}
+
+   @media screen and (max-width: 1024px){
+      .footer_wrap{height:160px; background:#bd000d}
+      .footer{width:756px}
+      .footer_top{font-size:14px; padding-top:25px}
+      .foot_txt1, .foot_txt2, .foot_txt3, .foot_txt4, .foot_txt5, .foot_txt6{float:left; margin-right:40px}
+      .foot_txt_wrap1{margin-top:30px}
+      .foot_txt_wrap2{height:20px}
+
+      .foot_bottom_txt6{   clear: both}
+
+   }

@@ -1,0 +1,179 @@
+.sub, .sub_box{display:none}
+
+/*회원가입 단계*/ 
+
+/*.join1{display:none}
+.join2{display:none}
+.join3{display:none}
+.join4{display:none}*/
+
+
+/*header*/
+.header_wrap{height:250px; border-top:15px solid #BA000d;box-sizing:border-box; box-shadow:10px 13px 10px 4px #d4d4d4; position:relative; z-index:2}
+
+
+/*main*/
+
+/*locate*/
+.locate{width:1200px;margin:auto; position:relative;margin-top: 30px; height:16px}
+.locate1{float:left; margin-left:100px}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2{float:left}
+
+
+/*회원가입*/
+.join_wrap{width:1200px; margin:auto}
+.join_title{width:289px; height:35px; background:url(../images/sub/join/join_title.jpg);text-indent:-9999px; margin:55px 0 0 456px}
+fieldset, button{border:0}
+
+/*01. 본인인증_join1*/
+.join1{overflow:hidden}
+.join1_pro{height:90px;margin:150px 0 15px 250px; padding-bottom:50px; border-bottom:1px solid #6f6f6f;width:720px; font-size:16px}
+.join1_pro1{width:91px; height:90px; background:url(../images/sub/join/join1_red.jpg)no-repeat center 19px; padding-top:70px; box-sizing:border-box; margin: 0 80px 0 30px; float:left}
+
+.join1_pro2{width:91px; height:90px; background:url(../images/sub/join/join2.jpg)no-repeat center 20px; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join1_pro3{width:130px; height:90px; background:url(../images/sub/join/join3.jpg)no-repeat center top; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join1_pro4{width:95px; height:90px; background:url(../images/sub/join/join4.jpg)no-repeat center 15px; padding-top:70px; box-sizing:border-box;; margin-right:30px; float:left}
+
+
+.join1_title{height:36px; margin-bottom:40px}
+.join1_title h2{font-size:24px; margin:0 135px 0 375px;float:left}
+.join1_title p{float:left; line-height:36px}
+
+
+
+.join1 fieldset{width:465px; height:200px; background:url(../images/sub/join/join1_img.jpg)no-repeat top left; margin:auto; padding:0}
+.phone_title{height:60px; margin-left:230px; font-size:24px; font-weight:bold;padding-top:30px; box-sizing:border-box}
+.phone p{margin: 10px 0 0 230px}
+button[name="join1_btn"]{width:160px; height:50px; background:url(../images/sub/join/join1_-button.jpg); text-indent:-9999px;margin-top:50px}
+
+.phone_txt3{width:396px; height: 16px; background:url(../images/sub/join/join1_icon.jpg)no-repeat;padding-left: 15px; margin: 75px 0 5px 370px}
+.phone_txt4{margin:0 0 100px 385px}
+
+
+/*02. 약관 동의_join2*/
+.join2{overflow:hidden}
+.join2_pro{height:90px;margin:150px 0 15px 250px; padding-bottom:50px; border-bottom:1px solid #6f6f6f;width:720px; font-size:16px}
+.join2_pro1{width:91px; height:90px; background:url(../images/sub/join/join1.jpg)no-repeat center 19px; padding-top:70px; box-sizing:border-box; margin: 0 80px 0 30px; float:left}
+
+.join2_pro2{width:91px; height:90px; background:url(../images/sub/join/join2_red.jpg)no-repeat center 20px; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join2_pro3{width:130px; height:90px; background:url(../images/sub/join/join3.jpg)no-repeat center top; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join2_pro4{width:95px; height:90px; background:url(../images/sub/join/join4.jpg)no-repeat center 15px; padding-top:70px; box-sizing:border-box;; margin-right:30px; float:left}
+
+
+
+.join2_top{margin: 0 0 70px 250px}
+
+.join2_top legend{font-size:24px; font-weight:bold}
+.term_txt1{font-size:16px; font-weight:bold; margin:20px 0 5px 0}
+
+
+.term{width:1200px; margin:auto}
+
+.term1,.term2,.term3{width:1000px; height:200px;  overflow:auto;}
+.term1 p ,.term2 dt, .txt{font-size:14px; font-weight:bold}
+.term dl, .term ul{font-size:12px; margin-bottom:15px}
+
+.term1_wrap, .term2_wrap, .term3_wrap{margin-left:100px; margin-bottom:50px}
+
+.notice{font-size:18px; font-weight:bold; color:#6f6f6f; margin-bottom:15px}
+.term_top ul{font-size:14px; line-height:25px}
+.check{margin-top:20px}
+
+.check_all{width:700px; height:30px; margin-left:250px; background:lightgray; margin-bottom:50px;}
+input[name="agree_all"]{margin:8px 15px 0 243px}
+button[name="next"]{width:85px; height:40px; background:url(../images/sub/join/join2_button.jpg);text-indent:-9999px; margin: 0 0 100px 558px}
+
+
+
+
+
+/*03. 회원 정보 입력_join3*/
+.join3{overflow:hidden}
+.join3_pro{height:90px;margin:150px 0 15px 250px; padding-bottom:50px; border-bottom:1px solid #6f6f6f;width:720px; font-size:16px}
+.join3_pro1{width:91px; height:90px; background:url(../images/sub/join/join1.jpg)no-repeat center 19px; padding-top:70px; box-sizing:border-box; margin: 0 80px 0 30px; float:left}
+
+.join3_pro2{width:91px; height:90px; background:url(../images/sub/join/join2.jpg)no-repeat center 20px; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join3_pro3{width:130px; height:90px; background:url(../images/sub/join/join3_red.jpg)no-repeat center top; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join3_pro4{width:95px; height:90px; background:url(../images/sub/join/join4.jpg)no-repeat center 15px; padding-top:70px; box-sizing:border-box;; margin-right:30px; float:left}
+
+
+
+.join3_top{margin-left:250px}
+.join3_top legend{font-size:24px; margin-bottom:10px; font-weight:bold}
+.join3_top_txt1{font-size:16px; margin-bottom:5px}
+.join3_top_txt2{color:#ba000d}
+.rq{color:#ba000d}
+
+.join3 label{float:left; font-size:18px; font-weight:normal; line-height:40px}
+
+.user_id{margin:110px 0 0 322px; height:45px}
+input[name="user_id"]{width:170px; height:30px; margin: 0 20px 0 100px}
+button[name="user_id"]{width:85px; height:40px; background:url(../images/sub/join/join3_button1.jpg); text-indent:-9999px}
+
+.pw{margin:50px 0 0 322px}
+input[name="pw"]{width:230px; height:30px;margin:0 0 10px 83px}
+.pw_info{margin-left:162px}
+
+.pw_con{margin:50px 0 0 322px}
+input[name="pw_con"]{width:230px; height:30px;margin: 0 0 0 45px}
+
+.name{margin:50px 0 0 322px}
+input[name="name"]{width:230px; height:30px;margin: 0 0 0 117px}
+
+.dob{margin:50px 0 0 322px}
+input[name="dob"]{width:230px; height:30px;margin: 0 0 10px 83px}
+.dob_info{margin-left:162px}
+
+.tel{margin:50px 0 0 322px}
+input[name="tel"]{width:200px; height:30px;margin: 0 0 10px 100px}
+
+.tel_gre{height:15px;position:relative;margin-left:322px}
+input[name="tel_check"]{height:13px; margin: 0 10px 0 165px; float:left}
+.tel_gre > label{height:15px; font-size:14px; position:absolute; top:-12px;}
+.tel_info{margin-left:485px}
+
+.email{margin:50px 0 0 322px}
+.at{font-size:24px}
+input[name="email"]{width:300px; height:30px;margin: 0 10px 10px 100px}
+input[name="email_dns"]{width:180px; height:30px;margin: 0 10px 0 162px}
+select{width:105px; height:30px; font-size:16px}
+
+.address{margin:50px 0 50px 322px}
+input[name="postalCode"]{width:130px; height:30px;margin: 0 20px 20px 125px}
+button[name="address"]{width:85px; height:40px; background:url(../images/sub/join/join3_button2.jpg); text-indent:-9999px}
+input[name="addr1"]{width:340px; height:30px;margin: 0 0 10px 160px}
+input[name="addr2"]{width:340px; height:30px;margin: 0 0 10px 160px}
+
+.add_info{margin-left:160px}
+
+button[name="join"]{width:85px; height:40px; background:url(../images/sub/join/join3_button3.jpg); text-indent:-9999px;margin: 0 0 100px 588px}
+
+
+
+
+
+
+/*04. 가입 완료_join4*/
+.join4{overflow:hidden;position:relative}
+.join4_pro{height:90px;margin:150px 0 15px 250px; padding-bottom:50px; border-bottom:1px solid #6f6f6f;width:720px; font-size:16px}
+.join4_pro1{width:91px; height:90px; background:url(../images/sub/join/join1.jpg)no-repeat center 19px; padding-top:70px; box-sizing:border-box; margin: 0 80px 0 30px; float:left}
+
+.join4_pro2{width:91px; height:90px; background:url(../images/sub/join/join2.jpg)no-repeat center 20px; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join4_pro3{width:130px; height:90px; background:url(../images/sub/join/join3.jpg)no-repeat center top; padding-top:70px; box-sizing:border-box;; margin-right:80px; float:left}
+
+.join4_pro4{width:95px; height:90px; background:url(../images/sub/join/join4_red.jpg)no-repeat center 15px; padding-top:70px; box-sizing:border-box;; margin-right:30px; float:left}
+
+
+.join4 h2{font-size:24px; margin-left:555px}
+.join4_txt{width:240px; height:35px; background:url(../images/sub/join/join4_txt.jpg); text-indent:-9999px; margin:136px 0 0 494px}
+.join4_txt2{font-size:18px; position:absolute;top:375px; left:405px}
+.index{width:150px; height:40px; background:url(../images/sub/join/join4_button.jpg); text-indent:-9999px; display:block; margin:80px 0 100px 525px}
+

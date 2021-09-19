@@ -1,0 +1,246 @@
+/*lnb*/
+.lnb_wrap{height:205px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+
+.lnb_top{width: 330px;height:105px; margin:0 auto 10px; padding-top:50px}
+.lnb a{height:100%; display:block}
+.lnb dt{width:62px; height:33px; background:url(../../../images/sub/menu/coffee/main_title.jpg) ;text-indent:-9999px;  margin:0 auto 20px}
+.main_txt{text-align:center; font-size:20px}
+
+
+
+
+
+.lnb_bottom{width:746px; height:26px;margin:auto}
+
+
+.lnb1{width:35px; height:19px;background:url(../../../images/sub/menu//lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb1:hover{width:35px; height:19px;background:url(../../../images/sub/menu/lnb1_red.jpg) no-repeat}
+     
+
+.lnb2{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb2:hover{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb3:hover{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb4:hover{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4_red.jpg) no-repeat}
+
+
+
+/*tap menu*/
+.tab_wrap{background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width:567px; margin:10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+
+.tab1{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab1 a:hover{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1_hover.jpg) no-repeat}
+
+.tab2{width:89px; height:31px; background:url(../../../images/sub/menu/coffee/tap2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.tab2 a:hover{width:89px; height:31px; background:url(../../../images/sub/menu/coffee/tap2_hover.jpg) no-repeat}
+
+.tab3{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap3.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab3 a:hover{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap3_hover.jpg) no-repeat}
+
+.tab4{width:72px; height:31px; background:url(../../../images/sub/menu/coffee/tap4.jpg) no-repeat; text-indent:-9999px; float:left}
+.tab4 a:hover{width:72px; height:31px; background:url(../../../images/sub/menu/coffee/tap4_hover.jpg) no-repeat}
+
+
+
+/*locate*/
+.locate{width:917px; position:relative;margin: 30px auto 0; height:20px;}
+.locate1{float:left}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2{float:left}
+.locate2:after{content:">"; margin:0 9px 0 5px}
+.locate3{float:left}
+.locate3:after{content:">"; margin:0 9px 0 5px}
+.locate4{float:left}
+
+
+
+
+
+
+
+
+
+/*커피 정보*/
+.season{width:159px; height:29px; background:#ba000d; text-indent:0;position:absolute; top:-40px; text-align:center;line-height:29px; color:#fff; font-weight:bold;font-size:16px; border-radius:10px}
+.txt1{text-indent:0;margin:15px 0 5px 0; font-size:24px; font-weight:bold}
+.txt2, dl{text-indent:0; font-size:16px}
+table{border-top:1px solid #6f6f6f;border-bottom:1px solid #6f6f6f}
+
+dd{float:left; margin-bottom:15px}
+.info1:after{content:"/"; margin-left:5px}
+.info2:after{content:"/"; margin-left:5px}
+table{clear:both}
+td{height:30px; text-align:center}
+th{width:80px; text-align:center}
+
+
+
+
+/*프리미엄 블렌드 아메리카노*/
+
+.coffee1{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee1.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee1 h2{width:426px; height:33px;background:url(../../../images/sub/menu/coffee/coffee1_title.jpg)}
+
+/*콜드브루 딜라이트*/
+.coffee2{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee2.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee2 h2{width:280px; height:33px;background: url(../../../images/sub/menu/coffee/coffee2_title.jpg)bottom no-repeat; padding-top: 40px}
+
+/*프리미엄 블렌드 딥라떼*/
+.coffee3{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee3.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee3 h2{width:367px; height:33px;background:url(../../../images/sub/menu/coffee/coffee3_title.jpg)}
+
+/*더블샷 바닐라 딜라이트*/
+.coffee4{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee4.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee4 h2{width:355px; height:33px;background:url(../../../images/sub/menu/coffee/coffee4_title.jpg)}
+
+/*바닐라 딜라이트*/
+.coffee5{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee5.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee5 h2{width:242px; height:33px;background:url(../../../images/sub/menu/coffee/coffee5_title.jpg)}
+
+/*리스트레또 딜라이트*/
+.coffee6{width:870px; height:270px; background:url(../../../images/sub/menu/coffee/coffee6.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee6 h2{width:311px; height:33px;background:url(../../../images/sub/menu/coffee/coffee6_title.jpg)}
+
+/*콜드브루 라떼*/
+.coffee7{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee7.jpg)0 -23px no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee7 h2{width:211px; height:33px;background:url(../../../images/sub/menu/coffee/coffee7_title.jpg)}
+
+/*콜드브루*/
+.coffee8{width:870px; height:280px; background:url(../../../images/sub/menu/coffee/coffee8.jpg)no-repeat 0 -15px; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee8 h2{width:135px; height:33px;background:url(../../../images/sub/menu/coffee/coffee8_title.jpg)}
+
+/*카라멜 마키아또*/
+.coffee9{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee9.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee9 h2{width:246px; height:33px;background:url(../../../images/sub/menu/coffee/coffee9_title.jpg)}
+
+/*카페모카*/
+.coffee10{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee10.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee10 h2{width:135px; height:33px;background:url(../../../images/sub/menu/coffee/coffee10_title.jpg)}
+
+/*카푸치노*/
+.coffee11{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee11.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee11 h2{width:135px; height:33px; background: url(../../../images/sub/menu/coffee/coffee11_title.jpg)bottom no-repeat; padding-top: 43px}
+
+/*카페라떼*/
+.coffee12{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee12.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee12 h2{width:135px; height:33px;background:url(../../../images/sub/menu/coffee/coffee12_title.jpg)}
+
+/*아메리카노*/
+.coffee13{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee13.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee13 h2{width:168px; height:33px;background:url(../../../images/sub/menu/coffee/coffee13_title.jpg)}
+
+/*아포카토*/
+.coffee14{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee14.jpg)no-repeat; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee14 h2{width:134px; height:33px;background:url(../../../images/sub/menu/coffee/coffee14_title.jpg)}
+
+/*에스프레소*/
+.coffee15{width:870px; height:300px; background:url(../../../images/sub/menu/coffee/coffee15.jpg)no-repeat 0 -45px; text-indent:-9999px; margin:100px  auto 0; padding-left:330px; box-sizing:border-box}
+.coffee15 h2{width:167px; height:33px;background:url(../../../images/sub/menu/coffee/coffee15_title.jpg)}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*other1*/
+.other_wrap{width:850px;margin:0 auto 100px; overflow:hidden; position:relative}
+.other{width:649px; height:325px; margin:auto}
+.other h2{width:649px; height:24px; background:url(../../../images/sub/menu/other.jpg);text-indent:-9999px; margin:100px auto 90px}
+
+.other_wrap a{height:100%; display:block}
+.other_wrap li{margin-top:15px}
+
+
+
+
+
+.other1{text-align:center; width:649px; margin:auto}
+.other1_1{width:99px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img1.jpg)no-repeat center top;float:left; position:relative}
+.other1_1 a{position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other1_1:hover{transform:scale(1.1, 1.1)}
+
+
+.other1_2{width:96px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img2.jpg)no-repeat center top;float:left; position:relative; text-align:center}
+.other1_2 a{width:100%; position:absolute; top:0; left:0; padding:136px 20px 0; box-sizing:border-box}
+.other1_2:hover{transform:scale(1.1, 1.1)}
+
+
+.other1_3{width:98px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img3.jpg)no-repeat center top;float:left; position:relative}
+.other1_3 a{position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other1_3:hover{transform:scale(1.1, 1.1)}
+
+.other1_4{width:96px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img4.jpg)no-repeat center top;float:left;  position:relative}
+.other1_4 a{position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other1_4:hover{transform:scale(1.1, 1.1)}
+
+.other2_1{width:98px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img5.jpg)no-repeat center top;float:left;  position:relative}
+.other2_1 a{position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other2_1:hover{transform:scale(1.1, 1.1)}
+
+.other2_2{width:96px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img6.jpg)no-repeat center top;float:left; position:relative}
+.other2_2 a{position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+.other2_2:hover{transform:scale(1.1, 1.1)}
+
+    
+.other2_3{width:96px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img7.jpg)no-repeat center top;float:left; position:relative}
+.other2_3 a{position:absolute; top:0; left:0; padding:136px 20px 0; box-sizing:border-box}
+.other2_3:hover{transform:scale(1.1, 1.1)}
+
+    
+.other2_4{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img8.jpg)no-repeat center top;float:left; position:relative}
+.other2_4 a{position:absolute; top:0; left:0; padding:136px 20px 0; box-sizing:border-box}
+.other2_4:hover{transform:scale(1.1, 1.1)}
+
+.other3_1{width:98px; height:180px; background:url(../../../images/sub/menu/coffee/coffee_img9.jpg)no-repeat center top;float:left; position:relative}
+.other3_1 a{position:absolute; top:0; left:0; padding-top:136px; height:100%; width:100%;box-sizing:border-box}
+.other3_1:hover{transform:scale(1.1, 1.1)}
+
+
+.other3_2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img10.jpg)no-repeat center top;float:left; position:relative}
+.other3_2 a{width: 96px; position:absolute; top:0; left:0; padding:136px 10px 0 33px;box-sizing:border-box}
+.other3_2:hover{transform:scale(1.1, 1.1)}
+
+.other3_3{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img11.jpg)no-repeat center top;float:left; position:relative}
+.other3_3 a{width:96px;position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other3_3:hover{transform:scale(1.1, 1.1)}
+
+    
+.other3_4{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img12.jpg)no-repeat center top;float:left; position:relative}
+.other3_4 a{width:96px;position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other3_4:hover{transform:scale(1.1, 1.1)}
+
+.other4_1{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img12.jpg)no-repeat center top;float:left; position:relative}
+.other4_1 a{width:96px;position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other4_1:hover{transform:scale(1.1, 1.1)}
+
+
+.other4_2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img13.jpg)no-repeat center top;float:left; position:relative}
+.other4_2 a{width:96px;position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other4_2:hover{transform:scale(1.1, 1.1)}
+
+.other4_3{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img14.jpg)no-repeat center top;float:left; margin-right:50px !important; position:relative}
+.other4_3 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+.other4_3:hover{transform:scale(1.1, 1.1)}
+
+.other4_4{width:150px !important; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img15.jpg)no-repeat center top;float:left; margin-right:50px !important; position:relative}
+.other4_4 a{width:150px !important;position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other4_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+   

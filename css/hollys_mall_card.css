@@ -1,0 +1,67 @@
+/*lnb*/
+.lnb_wrap{height:182px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb a{height:100%; display:block}
+.lnb_cont{width:590px;height:160px; margin:auto; padding-top:50px;box-sizing:border-box}
+
+.lnb dt{width:212px;height:29px; background:url(../images/sub/hollys_mall/title.jpg);text-indent:-9999px; margin:0 auto 59px}
+.lnb1{width:78px; height:23px;background:url(../images/sub/hollys_mall/lnb1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:168px}
+.lnb1:hover{width:78px; height:23px;background:url(../images/sub/hollys_mall/lnb1_red.jpg) no-repeat}
+    
+.lnb2{width:98px; height:23px;background:url(../images/sub/hollys_mall/lnb2.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:168px}
+.lnb2:hover{width:98px; height:23px;background:url(../images/sub/hollys_mall/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:77px; height:23px;background:url(../images/sub/hollys_mall/lnb3.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb3:hover{width:77px; height:23px;background:url(../images/sub/hollys_mall/lnb3_red.jpg) no-repeat}
+
+
+/*locate*/
+.locate{width:917px; position:relative;margin: 30px auto 0; height:20px;}
+.locate1{float:left}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2{float:left}
+.locate2:after{content:">"; margin:0 9px 0 5px}
+.locate3{float:left}
+
+
+/*main*/
+.cont1 a{height:100%; display:block}
+.cont1_wrap{width:900px; margin:50px auto 50px}
+.cont1{width:900px; margin:auto ;border-bottom:1px solid #7c2f34; position:relative;height:640px}
+.cont1 h2{width:167px; height:34px; background:url(../images/sub/hollys_mall/card/title.jpg)no-repeat; text-indent:-9999px; margin-bottom:20px}
+.cont1 p{font-size:18px; margin-bottom:30px}
+
+.tab_title{height:45px}
+.title1{width:300px; height:45px; background:url(../images/sub/hollys_mall/card/tab1.jpg)no-repeat; text-indent:-9999px; float:left}
+.title2{width:300px; height:45px; background:url(../images/sub/hollys_mall/card/tab2_1.jpg)no-repeat; text-indent:-9999px; float:left}
+
+
+.tab1 dt{width:176px; height:20px; background: url(../images/sub/hollys_mall/card/sub_title1.jpg)no-repeat; text-indent:-9999px; margin:50px 0 20px 0}
+.tab1 dl{height:371px; margin-bottom:65px}
+.tab1 dd{height:330px; float:left;font-weight:bold;color:#ba000d}
+.tab1 .step1{width:156px; height:330px; background: url(../images/sub/hollys_mall/card/tab1_img1.jpg)bottom no-repeat; margin-right:70px}
+.tab1 .step2{width:161px; height:330px; background: url(../images/sub/hollys_mall/card/tab1_img2.jpg)bottom no-repeat; margin-right:70px}
+.tab1 .step3{width:173px; height:330px; background: url(../images/sub/hollys_mall/card/tab1_img3.jpg)bottom no-repeat; margin-right:60px}
+.tab1 .step4{width:206px; height:330px; background: url(../images/sub/hollys_mall/card/tab1_img4.jpg)bottom no-repeat}
+
+.tab2{display:none}
+.tab2 dl{float:left; height:371px; margin-bottom:65px}
+.tab2_title1{width:117px; height:20px; background: url(../images/sub/hollys_mall/card/sub_title2.jpg)no-repeat; text-indent:-9999px; margin:50px 0 20px 0}
+.tab2 dd{height:330px; float:left;font-weight:bold;color:#ba000d}
+.tab2 .step1{width:145px; height:336px; background: url(../images/sub/hollys_mall/card/tab2_img1.jpg)bottom no-repeat; margin-right:70px}
+.tab2 .step2{width:170px; height:336px; background: url(../images/sub/hollys_mall/card/tab2_img2.jpg)bottom no-repeat; margin-right:70px}
+
+.tab2_title2{width:117px; height:20px; background: url(../images/sub/hollys_mall/card/sub_title3.jpg)no-repeat; text-indent:-9999px; margin:50px 0 20px 0}
+.tab2 .step3{width:167px; height:336px; background: url(../images/sub/hollys_mall/card/tab2_img3.jpg)bottom no-repeat; margin-right:70px}
+.tab2 .step4{width:156px; height:336px; background: url(../images/sub/hollys_mall/card/tab2_img4.jpg)bottom no-repeat}
+
+
+.cont2_wrap{width:900px; margin:auto}
+.cont2{width:900px;margin:auto}
+.cont2 > h3{font-size:24px; font-weight:bold; margin:30px 0 10px 0}
+.cont2 li{font-size:16px; padding-left:10px; margin-left:20px; background:url(../images/sub/hollys_mall/card/bullet.jpg)left no-repeat}
+
+.info h3{font-size:18px; margin:30px 0 10px 0; padding-left:30px; background: url(../images/sub/hollys_mall/card/icon.jpg)left no-repeat}
+
+.btn_wrap{width:390px; height:63px; margin:80px auto 100px}
+button[name="buy"]{width:180px; height:63px; background: url(../images/sub/hollys_mall/card/button1.jpg)no-repeat; text-indent:-9999px; border:none; margin-right:26px; cursor:pointer}
+button[name="refund"]{width:180px; height:63px; background: url(../images/sub/hollys_mall/card/button2.jpg)no-repeat; text-indent:-9999px; border:none; cursor:pointer}

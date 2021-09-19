@@ -1,0 +1,421 @@
+/*lnb*/
+.lnb_wrap{height:205px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb{width:1200px;margin:auto;position:relative; z-index:1;}
+
+.lnb_top{height:105px; margin:0 auto 10px; padding-top:50px}
+.lnb a{height:100%; display:block}
+.lnb dt{width:66px; height:33px; background:url(../../../images/sub/menu/bev/lnb_title.jpg) ;text-indent:-9999px;  margin:0 auto 20px}
+.main_txt{width:1200px; text-align:center; font-size:20px;}
+
+.lnb_bottom{width:746px; height:26px;margin:auto}
+
+.lnb1{width:35px; height:19px;background:url(../../../images/sub/menu//lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb1:hover{width:35px; height:19px;background:url(../../../images/sub/menu/lnb1_red.jpg) no-repeat}
+     
+
+.lnb2{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb2:hover{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb3:hover{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb4:hover{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4_red.jpg) no-repeat}
+
+
+
+
+/*tab menu*/
+.tab_wrap{width:1200px; background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width:828px; margin:10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+.tab0{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab0 a:hover{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1_hover.jpg) no-repeat}
+
+.tab1{width:91px; height:31px; background:url(../../../images/sub/menu/bev/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab1 a:hover{width:91px; height:31px; background:url(../../../images/sub/menu/bev/tap1_hover.jpg) no-repeat}
+
+.tab2{width:65px; height:31px; background:url(../../../images/sub/menu/bev/tap2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:80px}
+.tab2 a:hover{width:65px; height:31px; background:url(../../../images/sub/menu/bev/tap2_hover.jpg) no-repeat}
+
+.tab3{width:70px; height:31px; background:url(../../../images/sub/menu/bev/tap3.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab3 a:hover{width:70px; height:31px; background:url(../../../images/sub/menu/bev/tap3_hover.jpg) no-repeat}
+
+.tab4{width:72px; height:31px; background:url(../../../images/sub/menu/bev/tap4.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab4 a:hover{width:72px; height:31px; background:url(../../../images/sub/menu/bev/tap4_hover.jpg) no-repeat}
+
+.tab5{width:94px; height:31px; background:url(../../../images/sub/menu/bev/tap5.jpg) no-repeat; text-indent:-9999px; float:left}
+.tab5 a:hover{width:94px; height:31px; background:url(../../../images/sub/menu/bev/tap5_hover.jpg) no-repeat}
+
+
+
+
+
+    /*locate*/
+    .locate{width:1200px;margin:auto; position:relative;margin-top: 30px; height:21px;}
+    .locate1{float:left; margin-left:100px}
+    .locate1:after{content:">"; margin:0 9px 0 5px}
+    .locate2{float:left}
+    .locate2:after{content:">"; margin:0 9px 0 5px}
+    .locate3{float:left}
+    .locate3:after{content:">"; margin:0 9px 0 5px}
+    .locate4{float:left}
+ 
+    .new{display:block; width:50px; height:20px; background:#ba000d; color:#fff;border-radius:20px; margin: -20px 0 0 -20px; text-align:center}
+
+
+
+/*전체*/
+.bev_wrap{width:1200px; margin:auto}
+.bev{width:920px; margin:80px auto 100px}
+
+.bev1{height:160px;margin-bottom:65px}
+
+.bev1_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img2.jpg)no-repeat center 7px;float:left; margin-right:100px; position:relative}
+.bev1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev1_1:hover{transform:scale(1.1, 1.1)}
+
+.bev1_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img3.jpg)no-repeat center top;float:left;; margin-right:90px; position:relative}
+.bev1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev1_2:hover{transform:scale(1.1, 1.1)}
+
+.bev1_3{width:120px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img4.jpg)no-repeat 0 14px;float:left; margin-right:90px; position:relative}
+.bev1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev1_3:hover{transform:scale(1.1, 1.1)}
+
+.bev1_4{width:120px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img5.jpg)no-repeat left top;float:left; margin-right:90px; position:relative}
+.bev1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev1_4:hover{transform:scale(1.1, 1.1)}
+
+.bev1_5{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img6.jpg)no-repeat center top;float:left; position:relative}
+.bev1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev1_5:hover{transform:scale(1.1, 1.1)}
+
+
+.bev2{height:155px;margin-bottom:65px}
+
+.bev2_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img8.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev2_1:hover{transform:scale(1.1, 1.1)}
+
+.bev2_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img4.jpg)no-repeat center 14px;float:left; margin-right:100px; position:relative}
+.bev2_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev2_2:hover{transform:scale(1.1, 1.1)}
+
+.bev2_3{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img5.jpg)no-repeat center 14px;float:left;margin-right:100px; position:relative}
+.bev2_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev2_3:hover{transform:scale(1.1, 1.1)}
+
+.bev2_4{width:120px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img6.jpg)no-repeat right 21px;float:left; margin-right:70px; position:relative}
+.bev2_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev2_4:hover{transform:scale(1.1, 1.1)}
+
+.bev2_5{width:120px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img8.jpg)no-repeat center 6px;float:left; position:relative}
+.bev2_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev2_5:hover{transform:scale(1.1, 1.1)}
+
+
+.bev3{height:155px;margin-bottom:65px}
+
+.bev3_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img9.jpg)no-repeat center 6px;float:left; margin-right:100px; position:relative}
+.bev3_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev3_1:hover{transform:scale(1.1, 1.1)}
+
+.bev3_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img10.jpg)no-repeat center 6px;float:left; margin-right:100px; position:relative}
+.bev3_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev3_2:hover{transform:scale(1.1, 1.1)}
+
+.bev3_3{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img11.jpg)no-repeat center 13px;float:left; margin-right:100px; position:relative}
+.bev3_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev3_3:hover{transform:scale(1.1, 1.1)}
+
+.bev3_4{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img12.jpg)no-repeat center 13px;float:left; margin-right:100px; position:relative}
+.bev3_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev3_4:hover{transform:scale(1.1, 1.1)}
+
+.bev3_5{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img13.jpg)no-repeat center 5px;float:left; position:relative}
+.bev3_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.bev3_5:hover{transform:scale(1.1, 1.1)}
+
+
+.bev4{height:155px;margin-bottom:65px}
+
+.bev4_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img1.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev4_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev4_1:hover{transform:scale(1.1, 1.1)}
+
+.bev4_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img2.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev4_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev4_2:hover{transform:scale(1.1, 1.1)}
+
+.bev4_3{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img3.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev4_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev4_3:hover{transform:scale(1.1, 1.1)}
+
+.bev4_4{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img4.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev4_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.bev4_4:hover{transform:scale(1.1, 1.1)}
+
+.bev4_5{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img1.jpg)no-repeat center top;float:left; position:relative}
+.bev4_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.bev4_5:hover{transform:scale(1.1, 1.1)}
+
+
+.bev5{height:155px;margin-bottom:65px}
+
+.bev5_1{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img2.jpg)no-repeat center 7px;float:left; margin-right:100px; position:relative}
+.bev5_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.bev5_1:hover{transform:scale(1.1, 1.1)}
+
+.bev5_2{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img3.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev5_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.bev5_2:hover{transform:scale(1.1, 1.1)}
+
+.bev5_3{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img4.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev5_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.bev5_3:hover{transform:scale(1.1, 1.1)}
+
+.bev5_4{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img5.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev5_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.bev5_4:hover{transform:scale(1.1, 1.1)}
+
+.bev5_5{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img6.jpg)no-repeat center top;float:left; position:relative}
+.bev5_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.bev5_5:hover{transform:scale(1.1, 1.1)}
+
+
+
+.bev6{height:155px;margin-bottom:65px}
+
+.bev6_1{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img7.jpg)no-repeat center 15px;float:left; margin-right:100px; position:relative}
+.bev6_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.bev6_1:hover{transform:scale(1.1, 1.1)}
+
+.bev6_2{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img8.jpg)no-repeat center 14px;float:left; margin-right:100px; position:relative}
+.bev6_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.bev6_2:hover{transform:scale(1.1, 1.1)}
+
+.bev6_3{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img9.jpg)no-repeat center 7px;float:left; margin-right:100px; position:relative}
+.bev6_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.bev6_3:hover{transform:scale(1.1, 1.1)}
+
+.bev6_4{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img0.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.bev6_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.bev6_4:hover{transform:scale(1.1, 1.1)}
+
+.bev6_5{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img2.jpg)no-repeat center top;float:left; position:relative}
+.bev6_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.bev6_5:hover{transform:scale(1.1, 1.1)}
+
+
+.bev7{height:155px;margin-bottom:65px}
+
+.bev7_1{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img3.jpg)no-repeat center 10px;float:left; margin-right:100px; position:relative}
+.bev7_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.bev7_1:hover{transform:scale(1.1, 1.1)}
+
+.bev7_2{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img4.jpg)no-repeat center 10px;float:left; margin-right:100px; position:relative}
+.bev7_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.bev7_2:hover{transform:scale(1.1, 1.1)}
+
+.bev7_3{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img5.jpg)no-repeat center 10px;float:left; margin-right:100px; position:relative}
+.bev7_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.bev7_3:hover{transform:scale(1.1, 1.1)}
+
+.bev7_4{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img6.jpg)no-repeat center 10px;float:left; position:relative}
+.bev7_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.bev7_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+/*라떼 초콜릿*/
+.latte{width:1200px; margin:auto}
+.bev_latte{width:920px; margin:80px auto 100px}
+
+.latte1{height:155px;margin-bottom:65px}
+
+.latte1_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img2.jpg)no-repeat center 7px;float:left; margin-right:100px; position:relative}
+.latte1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.latte1_1:hover{transform:scale(1.1, 1.1)}
+
+.latte1_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img3.jpg)no-repeat center top;float:left;; margin-right:90px; position:relative}
+.latte1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.latte1_2:hover{transform:scale(1.1, 1.1)}
+
+.latte1_3{width:120px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img4.jpg)no-repeat 0 14px;float:left; margin-right:90px; position:relative}
+.latte1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.latte1_3:hover{transform:scale(1.1, 1.1)}
+
+.latte1_4{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img6.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+.latte1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.latte1_4:hover{transform:scale(1.1, 1.1)}
+
+.latte1_5{width:130px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img7.jpg)no-repeat left top;float:left; position:relative}
+.latte1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.latte1_5:hover{transform:scale(1.1, 1.1)}
+
+
+.latte2{height:155px}
+
+.latte2_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap1_img8.jpg)no-repeat center top;float:left; position:relative}
+.latte2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.latte2_1:hover{transform:scale(1.1, 1.1)}
+
+
+/*티 (TEA)*/
+.tea{width:1200px; margin:auto}
+.bev_tea{width:920px; margin:80px auto 100px}
+
+.tea1{height:155px;margin-bottom:65px}
+    
+.tea1_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img4.jpg)no-repeat center 14px;float:left; margin-right:100px; position:relative}
+.tea1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea1_1:hover{transform:scale(1.1, 1.1)}
+
+.tea1_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img5.jpg)no-repeat center 14px;float:left; margin-right:100px; position:relative}
+.tea1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea1_2:hover{transform:scale(1.1, 1.1)}
+
+.tea1_3{width:120px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img6.jpg)no-repeat right 21px;float:left; margin-right:75px; position:relative}
+.tea1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea1_3:hover{transform:scale(1.1, 1.1)}
+
+.tea1_4{width:120px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img8.jpg)no-repeat center 6px;float:left; margin-right:100px; position:relative}
+.tea1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea1_4:hover{transform:scale(1.1, 1.1)}
+
+.tea1_5{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img9.jpg)no-repeat center 6px;float:left; position:relative}
+.tea1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea1_5:hover{transform:scale(1.1, 1.1)}
+
+
+.tea2{height:155px}
+    
+.tea2_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img10.jpg)no-repeat center 6px;float:left; margin-right:100px; position:relative}
+.tea2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea2_1:hover{transform:scale(1.1, 1.1)}
+
+.tea2_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img11.jpg)no-repeat center 13px;float:left; margin-right:100px; position:relative}
+.tea2_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea2_2:hover{transform:scale(1.1, 1.1)}
+
+.tea2_3{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img12.jpg)no-repeat center 13px;float:left; margin-right:100px; position:relative}
+.tea2_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea2_3:hover{transform:scale(1.1, 1.1)}
+
+.tea2_4{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap2_img13.jpg)no-repeat center 13px;float:left; position:relative}
+.tea2_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.tea2_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+/*스파클링*/
+.spa{width:1200px; margin:auto}
+.bev_spa{width:920px; margin:80px auto 100px}
+
+.spa1{height:155px}
+
+.spa1_1{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img1.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.spa1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.spa1_1:hover{transform:scale(1.1, 1.1)}
+
+.spa1_2{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img2.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.spa1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.spa1_2:hover{transform:scale(1.1, 1.1)}
+
+.spa1_3{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img3.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.spa1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.spa1_3:hover{transform:scale(1.1, 1.1)}
+
+.spa1_4{width:100px; height:155px; background:url(../../../images/sub/menu/bev/tap3_img4.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.spa1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:136px; box-sizing:border-box;text-align:center}
+.spa1_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+/*할리치노*/
+.holy{width:1200px; margin:auto}
+.bev_holy{width:920px; margin:80px auto 100px}
+
+.holy1{height:190px;margin-bottom:65px}
+
+.holy1_1{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img1.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.holy1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.holy1_1:hover{transform:scale(1.1, 1.1)}
+
+.holy1_2{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img2.jpg)no-repeat center 7px;float:left; margin-right:100px; position:relative}
+.holy1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.holy1_2:hover{transform:scale(1.1, 1.1)}
+
+.holy1_3{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img3.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.holy1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.holy1_3:hover{transform:scale(1.1, 1.1)}
+
+.holy1_4{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img4.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.holy1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.holy1_4:hover{transform:scale(1.1, 1.1)}
+
+.holy1_5{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img5.jpg)no-repeat center top;float:left; position:relative}
+.holy1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:147px; box-sizing:border-box;text-align:center}
+.holy1_5:hover{transform:scale(1.1, 1.1)}
+
+
+.holy2{height:180px}
+
+.holy2_1{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img6.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.holy2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.holy2_1:hover{transform:scale(1.1, 1.1)}
+
+.holy2_2{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img7.jpg)no-repeat center 15px;float:left; margin-right:100px; position:relative}
+.holy2_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.holy2_2:hover{transform:scale(1.1, 1.1)}
+
+.holy2_3{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img8.jpg)no-repeat center 14px;float:left; margin-right:100px; position:relative}
+.holy2_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.holy2_3:hover{transform:scale(1.1, 1.1)}
+
+.holy2_4{width:100px; height:160px; background:url(../../../images/sub/menu/bev/tap4_img9.jpg)no-repeat center 7px;float:left; margin-right:100px; position:relative}
+.holy2_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:144px; box-sizing:border-box;text-align:center}
+.holy2_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+/*스무디*/
+.smo{width:1200px; margin:auto}
+.bev_smo{width:920px; margin:80px auto 100px}
+
+.smo1{height:180px; margin-bottom:65px}
+
+.smo1_1{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img0.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.smo1_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.smo1_1:hover{transform:scale(1.1, 1.1)}
+
+.smo1_2{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img2.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.smo1_2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.smo1_2:hover{transform:scale(1.1, 1.1)}
+
+.smo1_3{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img3.jpg)no-repeat center 10px;float:left; margin-right:100px; position:relative}
+.smo1_3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.smo1_3:hover{transform:scale(1.1, 1.1)}
+
+.smo1_4{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img4.jpg)no-repeat center 10px;float:left; margin-right:100px; position:relative}
+.smo1_4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.smo1_4:hover{transform:scale(1.1, 1.1)}
+
+.smo1_5{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img5.jpg)no-repeat center 10px;float:left; position:relative}
+.smo1_5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.smo1_5:hover{transform:scale(1.1, 1.1)}
+
+
+.smo2{height:180px}
+
+.smo2_1{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img6.jpg)no-repeat center 10px;float:left; position:relative}
+.smo2_1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:142px; box-sizing:border-box;text-align:center}
+.smo2_1:hover{transform:scale(1.1, 1.1)}
+
+
+

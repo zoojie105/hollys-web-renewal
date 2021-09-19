@@ -1,0 +1,64 @@
+/*링크 말풍선값 안보이게*/
+/* .hide-title-attr{pointer-events: none} */
+
+/*lnb*/
+.lnb{width:1200px; margin:auto; padding-top:50px; position:relative; z-index:1}
+.lnb_back{position:relative; height:182px}
+.lnb_box{width:100%; height:100%;background:#fff; box-shadow:10px 13px 10px 4px #d4d4d4;position:absolute;top:0;}
+.lnb dl{width:680px; height:22px;margin:auto}
+
+
+.lnb a{height:100%; display:block}
+
+.lnb dt{width:227px; height:27px; background:url(../images/sub/Membership/title.jpg)no-repeat;text-indent:-9999px; margin:0 auto 59px}
+
+.lnb1{width:102px; height:22px;background:url(../images/sub/Membership/lnb1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:170px}
+.lnb1:hover{width:102px; height:22px;background:url(../images/sub/Membership/lnb1_red.jpg) no-repeat}
+ 
+.lnb2{width:145px; height:22px;background:url(../images/sub/Membership/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:170px}
+.lnb2:hover{width:145px; height:22px;background:url(../images/sub/Membership/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:91px; height:22px;background:url(../images/sub/Membership/lnb3.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb3:hover{width:91px; height:22px;background:url(../images/sub/Membership/lnb3_red.jpg) no-repeat}
+
+
+ /*tab menu*/
+
+.tab_wrap{width:1200px; background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width: 970px; margin: 10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+
+.tab1{width:84px; height:30px; background:url(../images/sub/membership/my_hollys/tab1.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab1 a:hover{width:84px; height:30px; background:url(../images/sub/membership/my_hollys/tab1_red.jpg)no-repeat}
+
+.tab2{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab2.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab2 a:hover{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab2_red.jpg)no-repeat}
+
+.tab3{width:120px; height:30px; background:url(../images/sub/membership/my_hollys/tab3.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab3 a:hover{width:120px; height:30px; background:url(../images/sub/membership/my_hollys/tab3_red.jpg)no-repeat}
+
+.tab4{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab4.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab4 a:hover{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab4_red.jpg)no-repeat}
+
+.tab5{width:107px; height:30px; background:url(../images/sub/membership/my_hollys/tab5.jpg)no-repeat; text-indent:-9999px; float:left}
+.tab5 a:hover{width:107px; height:30px; background:url(../images/sub/membership/my_hollys/tab5_red.jpg)no-repeat}
+
+
+
+
+/*locate*/
+.locate{width:1200px;margin:auto; position:relative;margin:30px auto 50px; height:21px;}
+.locate1{float:left; margin-left:150px}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2 {float:left}
+.locate2:after{content:">"; margin:0 9px 0 5px}
+.locate3 {float:left}
+.locate3:after{content:">"; margin:0 9px 0 5px}
+
+
+/*main*/
+.edit_ok{width:336px; margin:auto}
+.edit_ok p{font-size:24px; font-weight:bold; margin:80px auto 50px}
+button[type="button"]{width:150px; height:40px; background:url("../images/sub/join/join4_button.jpg")no-repeat; text-indent:-9999px; border:none; margin:0 0 80px 93px; cursor:pointer}

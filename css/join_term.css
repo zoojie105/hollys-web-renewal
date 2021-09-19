@@ -1,0 +1,61 @@
+
+/*locate*/
+.locate {width: 917px; position: relative; margin: 30px auto 0; height: 16px}
+.locate1{float:left}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2{float:left}
+
+
+/*회원가입*/
+.join_wrap{margin:55px auto 100px}
+.join_title{width:289px; height:35px; background:url(../images/sub/join/join_title.jpg);text-indent:-9999px; margin:0 auto 100px}
+
+
+/*02. 약관 동의_join2*/
+.join2{overflow:hidden}
+
+.join2_pro{height:90px; margin:0 auto 20px; padding-bottom:50px; border-bottom:1px solid #6f6f6f;width:700px; font-size:16px}
+
+.join2_pro1{width:91px; height:90px; background:url(../images/sub/join/join2_red.jpg)no-repeat center 20px; padding-top:70px; box-sizing:border-box;margin:0 80px 0 105px; float:left}
+
+.join2_pro2{width:130px; height:90px; background:url(../images/sub/join/join3.jpg)no-repeat center top; padding-top:70px; box-sizing:border-box; margin-right:80px; float:left}
+
+.join2_pro3{width:95px; height:90px; background:url(../images/sub/join/join4.jpg)no-repeat center 15px; padding-top:70px; box-sizing:border-box;float:left}
+
+
+
+.join2_top{width: 648px; margin: 0 auto 70px}
+
+.join2_top dt{font-size:24px; font-weight:bold}
+
+.join2_top .txt1{font-size:16px; font-weight:bold; margin:20px 0 5px 0}
+
+
+.term{width: 950px; margin: auto}
+.term1,.term2,.term3{width:950px; height:200px;  overflow:auto;}
+.term1 p ,.term2 dt, .txt{font-size:14px; font-weight:bold}
+.term dl, .term ul{font-size:12px; margin-bottom:15px}
+
+.term1_wrap, .term2_wrap, .term3_wrap{margin-bottom:50px}
+
+.notice{font-size:18px; font-weight:bold; color:#6f6f6f; margin-bottom:15px}
+.term_top ul{font-size:14px; line-height:25px}
+.check{margin-top:20px}
+
+.check_all{width:700px; height:30px; margin: 0 auto 50px; background:lightgray; margin-bottom:50px;}
+input[name="agree_all"]{margin:8px 15px 0 243px}
+.btn{margin:auto}
+button[name="next"]{width:85px; height:40px; background:url(../images/sub/join/join2_button.jpg);text-indent:-9999px; cursor:pointer; margin: auto; display: block}
+
+
+@media screen and (max-width: 1024px){
+    .locate {width: 845px}
+
+    .term{width: 750px; margin: auto}
+    .term1,.term2,.term3{width:750px; height:250px}
+
+}
+
+@media screen and (max-width: 960px){
+    .locate {width: 774px}
+}

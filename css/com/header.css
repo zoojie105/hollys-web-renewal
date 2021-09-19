@@ -1,0 +1,129 @@
+.sub,.sub_box{display:none}
+
+/*header*/
+.header_wrap{height:250px; border-top:15px solid #BA000d;box-sizing:border-box; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4; z-index:99}
+#header{height:205px; margin:auto; position:relative}
+
+
+.header_bottom{width: 917px; height:205px;margin:auto}
+h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repeat; text-indent:-9999px; margin-top: 30px}
+.header_bottom nav{margin-left: 190px; margin-top:36px}
+#header a{display:block; height:100%}  
+
+
+/*gnb*/
+
+.menu{width:59px; height:36px; background:url(../../images/sub/gnb_menu.jpg)no-repeat; text-indent:-9999px; float:left; padding-right:55px}
+.menu:hover{width:59px; height:36px; background:url(../../images/sub/gnb_menu_red.jpg)no-repeat;}
+
+.mall{width:119px; height:36px; background:url(../../images/sub/gnb_mall.jpg)no-repeat; text-indent:-9999px; float:left; padding-right:55px}
+.mall:hover{width:119px; height:36px; background:url(../../images/sub/gnb_mall_red.jpg)no-repeat;}
+
+.member{width:128px; height:36px; background:url(../../images/sub/gnb_mem.jpg)no-repeat; text-indent:-9999px; float:left; padding-right:55px}
+.member:hover{width:128px; height:36px; background:url(../../images/sub/gnb_mem_red.jpg)no-repeat;}
+
+.news{width:131px; height:36px; background:url(../../images/sub/gnb_news.jpg)no-repeat; text-indent:-9999px; float:left; padding-right:55px}
+.news:hover{width:131px; height:36px; background:url(../../images/sub/gnb_news_red.jpg)no-repeat;}
+
+.about{width:70px; height:36px; background:url(../../images/sub/gnb_about.jpg)no-repeat; text-indent:-9999px; float:left}
+.about:hover{width:70px; height:36px; background:url(../../images/sub/gnb_about_red.jpg)no-repeat;}
+
+
+/*sub*/
+.sub_box{height:290px; background:#fff; box-shadow:10px 13px 10px 4px #d4d4d4}
+.sub{text-indent:0; position:absolute; font-size:16px; font-weight:bold}
+.sub li{padding-top:20px}
+.sub a:hover{color:#bd000d}
+.menu ul{width:80px; padding-right:35px}
+.mall ul{width: 76px; padding-right: 99px}
+.member ul{padding-right: 70px}
+.news ul{padding-right: 127px}
+.adv{width:139px;height:159px; background:url(../../images/sub/gnb_adv.jpg)left bottom no-repeat;text-indent:-9999px; padding: 29px 47px 0 0; margin:20px -185px 0}
+.adv a{width:100%; height:100%}
+.adv:hover{transform:scale(1.1, 1.1)}
+
+
+/*top_menu*/
+.top_menu{margin:auto; position:absolute; top:-10px; right:50px}
+
+.top_menu li{float:left}
+.login, .register, .customer{margin-right: 15px}
+.login a:hover{color:#bd000d; font-weight:bold}
+.register a:hover{color:#bd000d; font-weight:bold}
+.customer a:hover{color:#bd000d; font-weight:bold}
+
+.fran{width:90px; height:29px; background:url(../../images/top_franchise.jpg) no-repeat; text-indent:-9999px}
+.fran:hover{width:90px; height:29px; background:url(../../images/top_button_red.jpg) no-repeat}
+
+
+
+
+@media screen and (max-width: 1024px){
+    h1{width:110px; height:105px; background:url(../../images/sub/1024px/logo.jpg)no-repeat; margin-top: 30px}
+    #header{height:155px}
+    .header_wrap{height:200px}
+    .header_bottom{width: 845px; height: 155px}
+    .header_bottom nav{margin-left: 155px; margin-top:14px}
+
+
+
+    .menu{width: 53px; height:35px; background:url(../../images/sub/1024px/gnb_menu.jpg)no-repeat}
+    .menu:hover{width: 53px; height:35px; background:url(../../images/sub/1024px/gnb_menu_red.jpg)no-repeat}
+
+    .mall{width:107px; height:35px; background:url(../../images/sub/1024px/gnb_mall.jpg)no-repeat}
+    .mall:hover{width:107px; height:35px; background:url(../../images/sub/1024px/gnb_mall_red.jpg)no-repeat}
+
+    .member{width: 117px; height:35px; background:url(../../images/sub/1024px/gnb_mem.jpg)no-repeat}
+    .member:hover{width: 117px; height:35px; background:url(../../images/sub/1024px/gnb_mem_red.jpg)no-repeat}
+
+    .news{width:118px; height:35px; background:url(../../images/sub/1024px/gnb_news.jpg)no-repeat}
+    .news:hover{width:118px; height:35px; background:url(../../images/sub/1024px/gnb_news_red.jpg)no-repeat}
+
+    .about{width:63px; height:35px; background:url(../../images/sub/1024px/gnb_about.jpg)no-repeat}
+    .about:hover{width:63px; height:35px; background:url(../../images/sub/1024px/gnb_about_red.jpg)no-repeat}
+
+
+    /*sub*/
+    .sub{font-size:14px}
+    .sub_box {height: 265px}
+    .menu ul {width: 70px; padding-right: 38px}
+    .mall{width:95px; padding-right:75px}
+    .member ul{width:104px; padding-right: 55px}
+    .news ul {width: 105px; padding-right: 55px}
+    .adv{width:111px;height:128px; background:url(../../images/sub/1024px/gnb_adv.jpg)left bottom no-repeat; margin:20px 0 0 -158px}
+
+
+}
+
+@media screen and (max-width: 960px){
+    h1{width:90px; height:86px; background:url(../../images/sub/960px/logo.jpg)no-repeat}
+    #header{height:130px}
+    .header_wrap{height:175px}
+    .header_bottom{width: 774px; height: 130px}
+    .header_bottom nav{margin-left: 125px; margin-top:10px}
+
+
+
+    .menu{width: 48px; height:33px; background:url(../../images/sub/960px/gnb_menu.jpg)no-repeat}
+    .menu:hover{width: 48px; height:33px; background:url(../../images/sub/960px/gnb_menu_red.jpg)no-repeat}
+
+    .mall{width:95px; height:33px; background:url(../../images/sub/960px/gnb_mall.jpg)no-repeat}
+    .mall:hover{width:95px; height:33px; background:url(../../images/sub/960px/gnb_mall_red.jpg)no-repeat}
+
+    .member{width: 104px; height:33px; background:url(../../images/sub/960px/gnb_mem.jpg)no-repeat}
+    .member:hover{width: 104px; height:33px; background:url(../../images/sub/960px/gnb_mem_red.jpg)no-repeat}
+
+    .news{width:105px; height:33px; background:url(../../images/sub/960px/gnb_news.jpg)no-repeat}
+    .news:hover{width:105px; height:33px; background:url(../../images/sub/960px/gnb_news_red.jpg)no-repeat}
+
+    .about{width:57px; height:33px; background:url(../../images/sub/960px/gnb_about.jpg)no-repeat}
+    .about:hover{width:57px; height:33px; background:url(../../images/sub/960px/gnb_about_red.jpg)no-repeat}
+
+
+    /*sub*/
+    .sub{font-size:14px}
+    .about ul{width:97px}
+    .adv{width:92px;height:106px; background:url(../../images/sub/960px/gnb_adv.jpg)left bottom no-repeat; margin:20px 0 0 -112px; padding: 29px 20px 0 0}
+
+
+}

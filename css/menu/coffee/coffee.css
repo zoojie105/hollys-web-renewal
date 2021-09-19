@@ -1,0 +1,311 @@
+/*lnb*/
+.lnb_wrap{height:205px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+
+.lnb_top{height:105px; margin:0 auto 10px; padding-top:50px}
+.lnb a{height:100%; display:block}
+.lnb dt{width:62px; height:33px; background:url(../../../images/sub/menu/coffee/main_title.jpg) ;text-indent:-9999px;  margin:0 auto 20px}
+.main_txt{text-align:center; font-size:20px;}
+
+.lnb_bottom{width:746px; height:26px;margin:auto}
+
+.lnb1{width:35px; height:19px;background:url(../../../images/sub/menu//lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb1:hover{width:35px; height:19px;background:url(../../../images/sub/menu/lnb1_red.jpg) no-repeat}
+     
+
+.lnb2{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb2:hover{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb3:hover{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb4:hover{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4_red.jpg) no-repeat}
+
+
+/*tap menu*/
+.tab_wrap{background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width:567px; margin:10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+
+.tab1{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab1 a:hover{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1_hover.jpg) no-repeat}
+
+.tab2{width:89px; height:31px; background:url(../../../images/sub/menu/coffee/tap2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.tab2 a:hover{width:89px; height:31px; background:url(../../../images/sub/menu/coffee/tap2_hover.jpg) no-repeat}
+
+.tab3{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap3.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:100px}
+.tab3 a:hover{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap3_hover.jpg) no-repeat}
+
+.tab4{width:72px; height:31px; background:url(../../../images/sub/menu/coffee/tap4.jpg) no-repeat; text-indent:-9999px; float:left}
+.tab4 a:hover{width:72px; height:31px; background:url(../../../images/sub/menu/coffee/tap4_hover.jpg) no-repeat}
+
+
+
+
+
+    /*locate*/
+    .locate{width:917px; position:relative;margin: 30px auto 0; height:20px;}
+    .locate1{float:left}
+    .locate1:after{content:">"; margin:0 9px 0 5px}
+    .locate2{float:left}
+    .locate2:after{content:">"; margin:0 9px 0 5px}
+    .locate3{float:left}
+    .locate3:after{content:">"; margin:0 9px 0 5px}
+    .locate4{float:left}
+ 
+
+
+
+    /*coffee*/
+    .coffee_all{width:908px; margin:84px auto 100px}
+
+    .coffee1{height:178px}
+    
+    .coffee1_1{width:99px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img1.jpg)no-repeat center top;float:left; margin: 0 98px 65px 0; position:relative}
+    .coffee1_1 ul{margin:auto;}
+    .coffee1_1 li{text-align:center}
+    .coffee1_1 a{position:absolute; top:0; left:0; padding-top:136px}
+    .coffee1_1:hover{transform:scale(1.1, 1.1)}
+
+    .coffee1_2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img2.jpg)no-repeat center top;float:left; margin: 0 100px 65px 0; position:relative}
+    .coffee1_2 ul{margin:auto;}
+    .coffee1_2 li{text-align:center}
+    .coffee1_2 a{position:absolute; top:0; left:0; padding:136px 20px 0}
+    .coffee1_2:hover{transform:scale(1.1, 1.1)}
+
+    .coffee1_3{width:98px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img3.jpg)no-repeat center top;float:left; margin: 0 98px 65px 0; position:relative}
+    .coffee1_3 ul{margin:auto;}
+    .coffee1_3 li{text-align:center}
+    .coffee1_3 a{position:absolute; top:0; left:0; padding-top:136px}
+    .coffee1_3:hover{transform:scale(1.1, 1.1)}
+
+    .coffee1_4{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img4.jpg)no-repeat center top;float:left; margin: 0 100px 65px 0; position:relative}
+    .coffee1_4 ul{margin:auto;}
+    .coffee1_4 li{text-align:center}
+    .coffee1_4 a{position:absolute; top:0; left:0; padding-top:136px}
+    .coffee1_4:hover{transform:scale(1.1, 1.1)}
+
+    .coffee1_5{width:98px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img5.jpg)no-repeat center top;float:left; position:relative}
+    .coffee1_5 ul{margin:auto;}
+    .coffee1_5 li{text-align:center}
+    .coffee1_5 a{position:absolute; top:0; left:0; padding-top:136px}
+    .coffee1_5:hover{transform:scale(1.1, 1.1)}
+
+    .coffee2{height:178px; margin-top:85px}
+
+    .coffee2_1{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img6.jpg)no-repeat center top;float:left; margin: 0 100px 65px 0; position:relative}
+    .coffee2_1 ul{margin:auto;}
+    .coffee2_1 li{text-align:center}
+    .coffee2_1 a{position:absolute; top:0; left:0; padding:136px 10px 0}
+    .coffee2_1:hover{transform:scale(1.1, 1.1)}
+
+    
+    .coffee2_2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img7.jpg)no-repeat center top;float:left; margin: 0 100px 65px 0; position:relative}
+    .coffee2_2 ul{margin:auto;}
+    .coffee2_2 li{text-align:center}
+    .coffee2_2 a{position:absolute; top:0; left:0; padding:136px 20px 0}
+    .coffee2_2:hover{transform:scale(1.1, 1.1)}
+
+    
+    .coffee2_3{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img8.jpg)no-repeat center top;float:left; margin: 0 100px 65px 0; position:relative}
+    .coffee2_3 ul{margin:auto;}
+    .coffee2_3 a{position:absolute; top:0; left:0; padding:136px 20px 0}
+    .coffee2_3:hover{transform:scale(1.1, 1.1)}
+
+
+    .coffee2_4{width:98px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img9.jpg)no-repeat center top;float:left; margin: 0 88px 65px 0; position:relative}
+    .coffee2_4 ul{margin:auto;}
+    .coffee2_4 li{padding-top:136px}
+    .coffee2_4 a{position:absolute; top:0; left:0; padding-top:136px }
+    .coffee2_4:hover{transform:scale(1.1, 1.1)}
+
+
+    .coffee2_5{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img10.jpg)no-repeat center top;float:left; margin-bottom:65px; position:relative}
+    .coffee2_5 ul{margin:auto;}
+    .coffee2_5 a{width: 96px; position:absolute; top:0; left:0; padding:136px 10px 0 33px;box-sizing:border-box}
+    .coffee2_5:hover{transform:scale(1.1, 1.1)}
+
+    .coffee3{height:166px; margin-top:85px}
+
+    .coffee3_1{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img11.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+    .coffee3_1 ul{margin:auto;}
+    .coffee3_1 li{padding:136px 10px 0;text-align:center}
+    .coffee3_1 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+    .coffee3_1:hover{transform:scale(1.1, 1.1)}
+
+
+    .coffee3_2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img12.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+    .coffee3_2 ul{margin:auto;}
+    .coffee3_2 li{padding:136px 10px 0;text-align:center}
+    .coffee3_2 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+    .coffee3_2:hover{transform:scale(1.1, 1.1)}
+
+    .coffee3_3{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img13.jpg)no-repeat center top;float:left;margin-right:100px; position:relative}
+    .coffee3_3 ul{margin:auto;}
+    .coffee3_3 li{padding:136px 10px 0;text-align:center}
+    .coffee3_3 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+    .coffee3_3:hover{transform:scale(1.1, 1.1)}
+
+    .coffee3_4{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img14.jpg)no-repeat center top;float:left; margin-right:80px; position:relative}
+    .coffee3_4 ul{margin:auto;}
+    .coffee3_4 li{padding:136px 10px 0;text-align:center}
+    .coffee3_4 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+    .coffee3_4:hover{transform:scale(1.1, 1.1)}
+
+    .coffee3_5{width:144px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img15.jpg)no-repeat center top;float:left; position:relative}
+    .coffee3_5 ul{margin:auto;}
+    .coffee3_5 li{padding:136px 10px 0;text-align:center}
+    .coffee3_5 a{width:144px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+    .coffee3_5:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+/*아메리카노*/
+
+
+
+/*coffee*/
+.coffee_ame{width:908px; margin:84px auto 100px; overflow:hidden}
+
+
+.ame1{width:99px; height:180px; background:url(../../../images/sub/menu/coffee/coffee_img1.jpg)no-repeat center top;float:left; margin-right:98px; position:relative}
+.ame1 ul{margin:auto;}
+.ame1 li{text-align:center}
+.ame1 a{position:absolute; top:0; left:0; padding-top:136px}
+.ame1:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+.ame2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img13.jpg)no-repeat center top;float:left; margin-right:98px; position:relative}
+.ame2 ul{margin:auto;}
+.ame2 li{padding:136px 10px 0;text-align:center}
+.ame2 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+.ame2:hover{transform:scale(1.1, 1.1)}
+
+
+.ame3{width:144px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img15.jpg)no-repeat center top;float:left; position:relative}
+.ame3 ul{margin:auto;}
+.ame3 li{padding:136px 10px 0;text-align:center}
+.ame3 a{width:144px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+.ame3:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+
+
+/*카페라떼*/
+
+
+
+/*latte*/
+.coffee_latte{width:900px; margin:84px auto 100px}
+
+.latte1{height:178px; margin-bottom:65px}
+    
+
+.latte1_1{width:98px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img3.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.latte1_1 ul{margin:auto;}
+.latte1_1 li{text-align:center}
+.latte1_1 a{position:absolute; top:0; left:0; padding-top:136px}
+.latte1_1:hover{transform:scale(1.1, 1.1)}
+
+.latte1_2{width:96px; height:178px; background:url(../../../images/sub/menu/coffee/coffee_img4.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.latte1_2 ul{margin:auto;}
+.latte1_2 li{text-align:center}
+.latte1_2 a{position:absolute; top:0; left:0; padding-top:136px}
+.latte1_2:hover{transform:scale(1.1, 1.1)}
+
+.latte1_3{width:98px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img5.jpg)no-repeat center top;margin-right:100px;float:left; position:relative}
+.latte1_3 ul{margin:auto;}
+.latte1_3 li{text-align:center}
+.latte1_3 a{position:absolute; top:0; left:0; padding-top:136px}
+.latte1_3:hover{transform:scale(1.1, 1.1)}
+
+.latte1_4{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img6.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.latte1_4 ul{margin:auto;}
+.latte1_4 li{text-align:center}
+.latte1_4 a{position:absolute; top:0; left:0; padding:136px 10px 0}
+.latte1_4:hover{transform:scale(1.1, 1.1)}
+
+.latte1_5{width:98px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img9.jpg)no-repeat center top;float:left; position:relative}
+.latte1_5 ul{margin:auto;}
+.latte1_5 li{padding-top:136px}
+.latte1_5 a{position:absolute; top:0; left:0; padding-top:136px }
+.latte1_5:hover{transform:scale(1.1, 1.1)}
+
+
+.lette2{height:178px}
+
+.lette2_1{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img10.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.lette2_1 ul{margin:auto;}
+.lette2_1 a{width: 96px; position:absolute; top:0; left:0; padding:136px 10px 0 33px;box-sizing:border-box}
+.lette2_1:hover{transform:scale(1.1, 1.1)}
+
+
+.lette2_2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img11.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.lette2_2 ul{margin:auto;}
+.lette2_2 li{padding:136px 10px 0;text-align:center}
+.lette2_2 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+.lette2_2:hover{transform:scale(1.1, 1.1)}
+
+
+.lette2_3{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img12.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.lette2_3 ul{margin:auto;}
+.lette2_3 li{padding:136px 10px 0;text-align:center}
+.lette2_3 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+.lette2_3:hover{transform:scale(1.1, 1.1)}
+
+    
+.lette2_4{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img14.jpg)no-repeat center top;float:left; position:relative}
+.lette2_4 ul{margin:auto;}
+.lette2_4 li{padding:136px 10px 0;text-align:center}
+.lette2_4 a{width:96px;position:absolute; top:0; left:0; padding:136px 10px 0; box-sizing:border-box}
+.lette2_4:hover{transform:scale(1.1, 1.1)}
+
+    
+
+
+/*콜드브루*/
+.coffee_brew{width:900px; margin:84px auto 100px}
+
+.brew1{height:178px}
+
+.brew1_1{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img2.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.brew1_1 ul{margin:auto;}
+.brew1_1 li{text-align:center}
+.brew1_1 a{position:absolute; top:0; left:0; padding:136px 20px 0}
+.brew1_1:hover{transform:scale(1.1, 1.1)}
+
+
+.brew1_2{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img7.jpg)no-repeat center top;float:left; margin-right:100px; position:relative}
+.brew1_2 ul{margin:auto;}
+.brew1_2 li{text-align:center}
+.brew1_2 a{position:absolute; top:0; left:0; padding:136px 20px 0}
+.brew1_2:hover{transform:scale(1.1, 1.1)}
+
+
+.brew1_3{width:96px; height:166px; background:url(../../../images/sub/menu/coffee/coffee_img8.jpg)no-repeat center top;float:left; position:relative}
+.brew1_3 ul{margin:auto;}
+.brew1_3 a{position:absolute; top:0; left:0; padding:136px 20px 0}
+.brew1_3:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+
+
+
+
+
+
+
+

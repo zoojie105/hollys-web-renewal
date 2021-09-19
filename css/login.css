@@ -1,0 +1,33 @@
+
+/*locate*/
+.locate {width: 917px; position: relative; margin: 30px auto 0; height: 16px}
+
+.locate1{float:left}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2{float:left}
+
+/*cont*/
+
+.cont{width:676px; height:355px; position:relative; margin: 100px auto}
+
+h3{width:240px; height:35px; background:url(../images/sub/login/login_title.jpg) ;text-indent:-9999px; margin:auto}
+
+
+
+input[type="text"]{width:303px; height:40px; margin:150px 0 15px 0}
+input[type="password"]{width:303px; height:40px}
+button{width:98px; height:98px;background: #6f6f6f; color:#fff; font-size:24px; font-weight:bold; position:absolute; left:345px; top:210px; cursor:pointer}
+
+.join{width:180px;height:180px;background:url(../images/sub/login/sign.jpg)no-repeat right;text-indent:-9999px; position:absolute; left:465px; top:175px; border-left:1px solid #4d4d4d; padding-left:30px}
+.join a{height:100%; display:block}
+
+
+.txt1{margin:15px 55px 0 0; float:left}
+.txt2{float:left; margin:15px 15px 0 0}
+.txt3{float:left; margin-top:15px}
+
+
+@media screen and (max-width: 1024px){
+    .locate {width: 845px}
+
+}

@@ -1,0 +1,40 @@
+/*locate*/
+.locate {width: 917px; position: relative; margin: 30px auto 0; height: 16px}
+.locate1{float:left}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2{float:left}
+
+
+
+/*회원가입*/
+.join_wrap{margin:55px auto 100px}
+.join_title{width:289px; height:35px; background:url(../images/sub/join/join_title.jpg);text-indent:-9999px; margin:0 auto 100px}
+button{cursor:pointer}
+
+
+/*04. 가입 완료_join4*/
+.join4{overflow:hidden;position:relative}
+.join4_pro{height:90px; margin:0 auto 20px;; padding-bottom:50px; border-bottom:1px solid #6f6f6f;width:700px; font-size:16px}
+
+
+.join4_pro1{width:91px; height:90px; background:url(../images/sub/join/join2.jpg)no-repeat center 20px; padding-top:70px; box-sizing:border-box;margin:0 80px 0 105px; float:left}
+
+.join4_pro2{width:130px; height:90px; background:url(../images/sub/join/join3.jpg)no-repeat center top; padding-top:70px; box-sizing:border-box;margin-right:80px; float:left}
+
+.join4_pro3{width:95px; height:90px; background:url(../images/sub/join/join4_red.jpg)no-repeat center 15px; padding-top:70px; box-sizing:border-box; float:left}
+
+
+.join4 .txt1{width:240px; height:35px; background:url(../images/sub/join/join4_txt.jpg); text-indent:-9999px; margin:100px auto 40px}
+.join4 .txt2{font-size:18px; text-align:center; font-size:14px}
+.btn{width:279px; margin:80px auto 0}
+button[name="index"]{width:150px; height:40px; background:url(../images/sub/join/join4_button.jpg); text-indent:-9999px; margin-right:20px}
+button[name="longin"]{width:105px; height:40px; background:url(../images/sub/join/join4_button2.jpg); text-indent:-9999px}
+
+
+@media screen and (max-width: 1024px){
+    .locate {width: 845px}
+}
+
+@media screen and (max-width: 960px){
+    .locate {width: 774px}
+}

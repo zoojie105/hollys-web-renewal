@@ -1,0 +1,618 @@
+/*lnb*/
+.lnb_wrap{height:205px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb{width:1200px;margin:auto;position:relative; z-index:1;}
+
+.lnb_top{height:105px; margin:0 auto 10px; padding-top:50px}
+.lnb a{height:100%; display:block}
+.lnb dt{width:66px; height:33px; background:url(../../../images/sub/menu/bev/lnb_title.jpg) ;text-indent:-9999px;  margin:0 auto 20px}
+.main_txt{width:1200px; text-align:center; font-size:20px;}
+
+.lnb_bottom{width:746px; height:26px;margin:auto}
+
+.lnb1{width:35px; height:19px;background:url(../../../images/sub/menu//lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb1:hover{width:35px; height:19px;background:url(../../../images/sub/menu/lnb1_red.jpg) no-repeat}
+     
+
+.lnb2{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb2:hover{width:38px; height:19px;background:url(../../../images/sub/menu/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:168px}
+.lnb3:hover{width:98px; height:19px;background:url(../../../images/sub/menu/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb4:hover{width:71px; height:19px;background:url(../../../images/sub/menu/lnb4_red.jpg) no-repeat}
+
+
+
+
+
+
+    /*locate*/
+    .locate{width:1200px;margin:auto; position:relative;margin-top: 30px; height:21px;}
+    .locate1{float:left; margin-left:100px}
+    .locate1:after{content:">"; margin:0 9px 0 5px}
+    .locate2{float:left}
+    .locate2:after{content:">"; margin:0 9px 0 5px}
+    .locate3{float:left}
+    .locate3:after{content:">"; margin:0 9px 0 5px}
+    .locate4{float:left}
+ 
+
+
+/*tab menu*/
+.tab_wrap{width:1200px; background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width:828px; margin:10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+
+.tab0{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab0 a:hover{width:36px; height:31px; background:url(../../../images/sub/menu/coffee/tap1_hover.jpg) no-repeat}
+
+.tab1{width:91px; height:31px; background:url(../../../images/sub/menu/bev/tap1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab1 a:hover{width:91px; height:31px; background:url(../../../images/sub/menu/bev/tap1_hover.jpg) no-repeat}
+
+.tab2{width:65px; height:31px; background:url(../../../images/sub/menu/bev/tap2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:80px}
+.tab2 a:hover{width:65px; height:31px; background:url(../../../images/sub/menu/bev/tap2_hover.jpg) no-repeat}
+
+.tab3{width:70px; height:31px; background:url(../../../images/sub/menu/bev/tap3.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab3 a:hover{width:70px; height:31px; background:url(../../../images/sub/menu/bev/tap3_hover.jpg) no-repeat}
+
+.tab4{width:72px; height:31px; background:url(../../../images/sub/menu/bev/tap4.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:80px}
+.tab4 a:hover{width:72px; height:31px; background:url(../../../images/sub/menu/bev/tap4_hover.jpg) no-repeat}
+
+.tab5{width:94px; height:31px; background:url(../../../images/sub/menu/bev/tap5.jpg) no-repeat; text-indent:-9999px; float:left}
+.tab5 a:hover{width:94px; height:31px; background:url(../../../images/sub/menu/bev/tap5_hover.jpg) no-repeat}
+
+
+
+
+/*커피 정보*/
+.season{width:159px; height:29px; background:#ba000d; text-indent:0;position:absolute; top:-40px; text-align:center;line-height:29px; color:#fff; font-weight:bold;font-size:16px; border-radius:10px}
+.txt1{text-indent:0;margin:15px 0 5px 0; font-size:24px; font-weight:bold}
+.txt2, dl{text-indent:0; font-size:16px}
+table{border-top:1px solid #6f6f6f;border-bottom:1px solid #6f6f6f}
+
+dd{float:left; margin-bottom:15px}
+.info1:after{content:"/"; margin-left:5px}
+.info2:after{content:"/"; margin-left:5px}
+table{clear:both}
+td{height:30px; text-align:center}
+th{width:80px; text-align:center}
+
+
+
+
+
+
+/*애플망고 코코넛 라떼*/
+
+.latte1_wrap{width:1200px; margin:auto}
+.latte1{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img1.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.latte1 h2{width:322px; height:33px;background:url(../../../images/sub/menu/bev/latte_title1.jpg)}
+
+
+/*그린티라떼*/
+
+.latte2_wrap{width:1200px; margin:auto}
+.latte2{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img2.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.latte2 h2{width:168px; height:33px;background:url(../../../images/sub/menu/bev/latte_title2.jpg)}
+
+
+/*밀크티라떼*/
+.latte3_wrap{width:1200px; margin:auto}
+.latte3{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img3.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.latte3 h2{width:165px; height:33px;background:url(../../../images/sub/menu/bev/latte_title3.jpg)}
+
+/*우리고구마라떼*/
+.latte4_wrap{width:1200px; margin:auto}
+.latte4{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img4.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.latte4 h2{width:256px; height:33px;background:url(../../../images/sub/menu/bev/latte_title4.jpg)}
+
+/*리얼 벨지안 초코*/
+.latte5_wrap{width:1200px; margin:auto}
+.latte5{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img5.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.latte5 h2{width:257px; height:33px;background:url(../../../images/sub/menu/bev/latte_title5.jpg)}
+
+/*화이트 초코*/
+.latte6_wrap{width:1200px; margin:auto}
+.latte6{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img6.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.latte6 h2{width:182px; height:33px;background:url(../../../images/sub/menu/bev/latte_title6.jpg)}
+
+/*핫 초코*/
+.latte7_wrap{width:1200px; margin:auto}
+.latte7{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img7.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.latte7 h2{width:102px; height:33px;background:url(../../../images/sub/menu/bev/latte_title7.jpg)}
+
+/*민트 초코*/
+.latte8_wrap{width:1200px; margin:auto}
+.latte8{width:870px; height:340px; background:url(../../../images/sub/menu/bev/latte_img8.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.latte8 h2{width:136px; height:33px;background:url(../../../images/sub/menu/bev/latte_title8.jpg)}
+
+
+
+
+
+/*히비스커스 후르츠*/
+.tea2_wrap{width:1200px; margin:auto}
+.tea2{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img2.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea2 h2{width:279px; height:33px;background:url(../../../images/sub/menu/bev/tea_title2.jpg)}
+
+
+/*레몬그라스*/
+.tea3_wrap{width:1200px; margin:auto}
+.tea3{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img3.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea3 h2{width:166px; height:33px;background:url(../../../images/sub/menu/bev/tea_title3.jpg)}
+
+/*유자 캐모마일*/
+.tea4_wrap{width:1200px; margin:auto}
+.tea4{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img4.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea4 h2{width:210px; height:33px;background:url(../../../images/sub/menu/bev/tea_title4.jpg)}
+
+/*복숭아 얼그레이*/
+.tea5_wrap{width:1200px; margin:auto}
+.tea5{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img5.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea5 h2{width:243px; height:33px;background:url(../../../images/sub/menu/bev/tea_title5.jpg)}
+
+/*홍자몽차*/
+.tea6_wrap{width:1200px; margin:auto}
+.tea6{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img6.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea6 h2{width:136px; height:33px;background:url(../../../images/sub/menu/bev/tea_title6.jpg)}
+
+/*스퀴즈 레몬차*/
+.tea7_wrap{width:1200px; margin:auto}
+.tea7{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img7.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea7 h2{width:213px; height:33px;background:url(../../../images/sub/menu/bev/tea_title7.jpg)}
+
+/*제주 한라봉 감귤차*/
+.tea8_wrap{width:1200px; margin:auto}
+.tea8{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img8.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea8 h2{width:291px; height:33px;background:url(../../../images/sub/menu/bev/tea_title8.jpg)}
+
+/*고흥 유자차*/
+.tea9_wrap{width:1200px; margin:auto}
+.tea9{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img9.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea9 h2{width:180px; height:33px;background:url(../../../images/sub/menu/bev/tea_title9.jpg)}
+
+/*해남 녹차*/
+.tea10_wrap{width:1200px; margin:auto}
+.tea10{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img10.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea10 h2{width:145px; height:33px;background:url(../../../images/sub/menu/bev/tea_title10.jpg)}
+
+/*페퍼민트*/
+.tea11_wrap{width:1200px; margin:auto}
+.tea11{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img11.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea11 h2{width:135px; height:33px;background:url(../../../images/sub/menu/bev/tea_title11.jpg)}
+
+/*캐모마일*/
+.tea12_wrap{width:1200px; margin:auto}
+.tea12{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img12.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea12 h2{width:133px; height:33px;background:url(../../../images/sub/menu/bev/tea_title12.jpg)}
+
+/*얼그레이*/
+.tea13_wrap{width:1200px; margin:auto}
+.tea13{width:870px; height:340px; background:url(../../../images/sub/menu/bev/tea_img13.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.tea13 h2{width:130px; height:33px;background:url(../../../images/sub/menu/bev/tea_title13.jpg)}
+
+
+
+
+
+
+
+
+/*더블베리 스파클링*/
+.spa1_wrap{width:1200px; margin:auto}
+.spa1{width:870px; height:340px; background:url(../../../images/sub/menu/bev/spa_img1.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.spa1 h2{width:274px; height:33px;background:url(../../../images/sub/menu/bev/spa_title1.jpg)}
+
+/*복숭아 자두 스파클링*/
+.spa2_wrap{width:1200px; margin:auto}
+.spa2{width:870px; height:340px; background:url(../../../images/sub/menu/bev/spa_img2.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.spa2 h2{width:321px; height:33px;background:url(../../../images/sub/menu/bev/spa_title2.jpg)}
+
+
+/*자몽 파인 스파클링*/
+.spa3_wrap{width:1200px; margin:auto}
+.spa3{width:870px; height:340px; background:url(../../../images/sub/menu/bev/spa_img3.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.spa3 h2{width:286px; height:33px;background:url(../../../images/sub/menu/bev/spa_title3.jpg)}
+
+
+/*청포도 스파클링*/
+.spa4_wrap{width:1200px; margin:auto}
+.spa4{width:870px; height:340px; background:url(../../../images/sub/menu/bev/spa_img4.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.spa4 h2{width:240px; height:33px;background:url(../../../images/sub/menu/bev/spa_title4.jpg)}
+
+
+
+
+
+
+
+/*딸기 치즈케익 할리치노*/
+.holy1_wrap{width:1200px; margin:auto}
+.holy1{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img1.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy1 h2{width:359px; height:33px;background:url(../../../images/sub/menu/bev/holy_title1.jpg)}
+
+
+/*콜드브루 할리치노*/
+.holy2_wrap{width:1200px; margin:auto}
+.holy2{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img2.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy2 h2{width:281px; height:33px;background:url(../../../images/sub/menu/bev/holy_title2.jpg)}
+
+/*콜드브루 모카 할리치노*/
+.holy3_wrap{width:1200px; margin:auto}
+.holy3{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img3.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy3 h2{width:359px; height:33px;background:url(../../../images/sub/menu/bev/holy_title3.jpg)}
+
+
+/*다크초코칩 할리치노*/
+.holy4_wrap{width:1200px; margin:auto}
+.holy4{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img4.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy4 h2{width:315px; height:33px;background:url(../../../images/sub/menu/bev/holy_title4.jpg)}
+
+
+/*민트초코 할리치노*/
+.holy5_wrap{width:1200px; margin:auto}
+.holy5{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img5.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy5 h2{width:281px; height:33px;background:url(../../../images/sub/menu/bev/holy_title5.jpg)}
+
+/*그린티 할리치노*/
+.holy6_wrap{width:1200px; margin:auto}
+.holy6{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img6.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy6 h2{width:247px; height:33px;background:url(../../../images/sub/menu/bev/holy_title6.jpg)}
+
+/*블루베리 요거트 할리치노*/
+.holy7_wrap{width:1200px; margin:auto}
+.holy7{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img7.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy7 h2{width:393px; height:33px;background:url(../../../images/sub/menu/bev/holy_title7.jpg)}
+
+
+/*플레인 요거트 할리치노*/
+.holy8_wrap{width:1200px; margin:auto}
+.holy8{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img8.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy8 h2{width:359px; height:33px;background:url(../../../images/sub/menu/bev/holy_title8.jpg)}
+
+
+/*밀크티 할리치노*/
+.holy9_wrap{width:1200px; margin:auto}
+.holy9{width:870px; height:340px; background:url(../../../images/sub/menu/bev/holy_img9.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.holy9 h2{width:244px; height:33px;background:url(../../../images/sub/menu/bev/holy_title9.jpg)}
+
+
+
+
+
+
+
+
+/*피치 딸기 크러쉬*/
+.smo0_wrap{width:1200px; margin:auto}
+.smo0{width:870px; height:340px; background:url(../../../images/sub/menu/bev/smo_img0.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box}
+.smo0 h2{width:252px; height:33px;background:url(../../../images/sub/menu/bev/smo_title0.jpg)}
+
+
+
+/*하나가득 애플망고 스무디*/
+.smo1_wrap{width:1200px; margin:auto}
+.smo1{width:870px; height:340px; background:url(../../../images/sub/menu/bev/smo_img1.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.smo1 h2{width:387px; height:33px;background:url(../../../images/sub/menu/bev/smo_title1.jpg)}
+
+
+/*애플망고 스무디*/
+.smo2_wrap{width:1200px; margin:auto}
+.smo2{width:870px; height:340px; background:url(../../../images/sub/menu/bev/smo_img2.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.smo2 h2{width:242px; height:33px;background:url(../../../images/sub/menu/bev/smo_title2.jpg)}
+
+/*딸기 스무디*/
+.smo3_wrap{width:1200px; margin:auto}
+.smo3{width:870px; height:340px; background:url(../../../images/sub/menu/bev/smo_img3.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.smo3 h2{width:175px; height:33px;background:url(../../../images/sub/menu/bev/smo_title3.jpg)}
+
+/*사과 비트 착즙 주스*/
+.smo4_wrap{width:1200px; margin:auto}
+.smo4{width:870px; height:340px; background:url(../../../images/sub/menu/bev/smo_img4.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.smo4 h2{width:299px; height:33px;background:url(../../../images/sub/menu/bev/smo_title4.jpg)}
+
+/*오렌지 당근 착즙 주스*/
+.smo5_wrap{width:1200px; margin:auto}
+.smo5{width:870px; height:340px; background:url(../../../images/sub/menu/bev/smo_img5.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.smo5 h2{width:326px; height:33px;background:url(../../../images/sub/menu/bev/smo_title5.jpg)}
+
+
+/*오렌지 당근 착즙 주스*/
+.smo6_wrap{width:1200px; margin:auto}
+.smo6{width:870px; height:340px; background:url(../../../images/sub/menu/bev/smo_img6.jpg)no-repeat left 27px; text-indent:-9999px; margin:100px 0 0 173px; padding-left:330px; box-sizing:border-box; position:relative}
+.smo6 h2{width:313px; height:33px;background:url(../../../images/sub/menu/bev/smo_title6.jpg)}
+
+
+
+
+
+
+
+/*other*/
+.other_wrap{width:1200px;margin:0 auto 100px; overflow:hidden; position:relative}
+.other{width:695px; height:335px; margin:auto}
+.other h2{width:649px; height:24px; background:url(../../../images/sub/menu/other.jpg);text-indent:-9999px; margin:100px auto 90px}
+
+.prev{width:20px; height:37px; background:url(../../../images/sub/menu/prev.jpg);text-indent:-9999px; position:absolute; top:280px; left:50px}
+.next{width:20px; height:37px; background:url(../../../images/sub/menu/next.jpg);text-indent:-9999px; position:absolute; top:280px; right:50px}
+.other_wrap a{height:100%; display:block}
+
+
+
+
+
+.other1{text-align:center; height:200px; padding-top:20px; width:700px; margin:auto}
+.other1_1{width:99px; height:190px; background:url(../../../images/sub/menu/bev/tap1_img1.jpg)no-repeat center top;float:left; position:relative}
+.other1_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other1_1:hover{transform:scale(1.1, 1.1)}
+
+
+.other1_2{width:99px; height:190px; background:url(../../../images/sub/menu/bev/tap1_img2.jpg)no-repeat center 5px;float:left; position:relative; text-align:center}
+.other1_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other1_2:hover{transform:scale(1.1, 1.1)}
+
+
+.other1_3{width:99px; height:190px; background:url(../../../images/sub/menu/bev/tap1_img3.jpg)no-repeat center top;float:left; position:relative}
+.other1_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other1_3:hover{transform:scale(1.1, 1.1)}
+
+.other1_4{width:110px; height:190px; background:url(../../../images/sub/menu/bev/tap1_img4.jpg)no-repeat center 15px;float:left; position:relative}
+.other1_4 a{width: 100% !important;; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:right}
+.other1_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+/*other2*/
+.other2_1{width:100px; height:166px; background:url(../../../images/sub/menu/bev/tap1_img5.jpg)no-repeat center top;float:left; position:relative}
+.other2_1 a{width:100%; height:100%; position:absolute; top:0; left:0; padding:136px 0 0 30px; box-sizing:border-box}
+.other2_1:hover{transform:scale(1.1, 1.1)}
+
+.other2_2{width:99px; height:178px; background:url(../../../images/sub/menu/bev/tap1_img6.jpg)no-repeat center top;float:left; position:relative}
+.other2_2 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other2_2:hover{transform:scale(1.1, 1.1)}
+
+    
+.other2_3{width:100px; height:180px; background:url(../../../images/sub/menu/bev/tap1_img7.jpg)no-repeat center top;float:left; position:relative}
+.other2_3 a{width:100%; height:100%; position:absolute; top:0; left:0; padding:136px 0 0 30px; box-sizing:border-box}
+.other2_3:hover{transform:scale(1.1, 1.1)}
+
+    
+.other2_4{width:96px; height:166px; background:url(../../../images/sub/menu/bev/tap1_img8.jpg)no-repeat center top;float:left;position:relative}
+.other2_4 a{width:100%; height:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other2_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+/*other3*/
+.other3{text-align:center; height:180px}
+
+
+.other3_1{width:120px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img1.jpg)no-repeat center 15px;float:left; position:relative}
+.other3_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding:136px 0 0 20px; box-sizing:border-box}
+.other3_1:hover{transform:scale(1.1, 1.1)}
+
+
+.other3_2{width:120px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img2.jpg)no-repeat center 15px;float:left; position:relative}
+.other3_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding:136px 0 0 20px;box-sizing:border-box}
+.other3_2:hover{transform:scale(1.1, 1.1)}
+
+.other3_3{width:110px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img3.jpg)no-repeat left 15px;float:left; position:relative}
+.other3_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding:136px 0 0 20px; box-sizing:border-box}
+.other3_3:hover{transform:scale(1.1, 1.1)}
+
+    
+.other3_4{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img4.jpg)no-repeat center 13px;float:left; position:relative}
+.other3_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other3_4:hover{transform:scale(1.1, 1.1)}
+
+
+    
+/*other4*/
+   
+.other4_1{width:96px; height:166px; background:url(../../../images/sub/menu/bev/tap2_img5.jpg)no-repeat center 15px;float:left; position:relative}
+.other4_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.other4_1:hover{transform:scale(1.1, 1.1)}
+
+
+.other4_2{width:100px; height:166px; background:url(../../../images/sub/menu/bev/tap2_img6.jpg)no-repeat center 15px;float:left; position:relative}
+.other4_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding:136px 0 0 10px; box-sizing:border-box; text-align:left}
+.other4_2:hover{transform:scale(1.1, 1.1)}
+
+.other4_3{width:100px; height:166px; background:url(../../../images/sub/menu/bev/tap2_img7.jpg)no-repeat center 15px;float:left; position:relative}
+.other4_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding:136px 15px 0; box-sizing:border-box}
+.other4_3:hover{transform:scale(1.1, 1.1)}
+
+.other4_4{width:99px; height:190px; background:url(../../../images/sub/menu/bev/tap2_img8.jpg)no-repeat center 5px;float:left; position:relative}
+.other4_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box; text-align:center}
+.other4_4:hover{transform:scale(1.1, 1.1)}
+
+
+    
+/*other5*/
+   
+.other5_1{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img9.jpg)no-repeat center 5px;float:left; position:relative}
+.other5_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other5_1:hover{transform:scale(1.1, 1.1)}
+
+.other5_2{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img10.jpg)no-repeat center 5px;float:left; position:relative}
+.other5_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other5_2:hover{transform:scale(1.1, 1.1)}
+
+.other5_3{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img11.jpg)no-repeat center 5px;float:left; position:relative}
+.other5_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other5_3:hover{transform:scale(1.1, 1.1)}
+
+.other5_4{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img12.jpg)no-repeat center 5px;float:left; position:relative}
+.other5_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other5_4:hover{transform:scale(1.1, 1.1)}
+
+
+/*other6*/
+   
+.other6_1{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap2_img13.jpg)no-repeat center 5px;float:left; position:relative}
+.other6_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other6_1:hover{transform:scale(1.1, 1.1)}
+
+.other6_2{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap3_img1.jpg)no-repeat center 5px;float:left; position:relative}
+.other6_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other6_2:hover{transform:scale(1.1, 1.1)}
+
+.other6_3{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap3_img2.jpg)no-repeat center 5px;float:left; position:relative}
+.other6_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other6_3:hover{transform:scale(1.1, 1.1)}
+
+.other6_4{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap3_img3.jpg)no-repeat center 5px;float:left; position:relative}
+.other6_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other6_4:hover{transform:scale(1.1, 1.1)}
+
+
+/*other7*/
+   
+.other7_1{width:96px; height:200px; background:url(../../../images/sub/menu/bev/tap3_img4.jpg)no-repeat center 15px;float:left; position:relative}
+.other7_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:145px; box-sizing:border-box}
+.other7_1:hover{transform:scale(1.1, 1.1)}
+
+.other7_2{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap4_img1.jpg)no-repeat center top;float:left; position:relative}
+.other7_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:145px; box-sizing:border-box}
+.other7_2:hover{transform:scale(1.1, 1.1)}
+
+.other7_3{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap4_img2.jpg)no-repeat center top;float:left; position:relative}
+.other7_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:145px; box-sizing:border-box}
+.other7_3:hover{transform:scale(1.1, 1.1)}
+
+.other7_4{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap4_img3.jpg)no-repeat center top;float:left; position:relative}
+.other7_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:145px; box-sizing:border-box}
+.other7_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+/*other8*/
+   
+.other8_1{width:96px; height:200px; background:url(../../../images/sub/menu/bev/tap4_img4.jpg)no-repeat center top;float:left; position:relative}
+.other8_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:140px; box-sizing:border-box}
+.other8_1:hover{transform:scale(1.1, 1.1)}
+
+.other8_2{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap4_img5.jpg)no-repeat center 7px;float:left; position:relative}
+.other8_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:140px; box-sizing:border-box}
+.other8_2:hover{transform:scale(1.1, 1.1)}
+
+.other8_3{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap4_img6.jpg)no-repeat center top;float:left; position:relative}
+.other8_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:140px; box-sizing:border-box}
+.other8_3:hover{transform:scale(1.1, 1.1)}
+
+.other8_4{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap4_img7.jpg)no-repeat center 10px;float:left; position:relative}
+.other8_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:140px; box-sizing:border-box}
+.other8_4:hover{transform:scale(1.1, 1.1)}
+
+
+/*other9*/   
+.other9_1{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap4_img8.jpg)no-repeat center top;float:left; position:relative}
+.other9_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other9_1:hover{transform:scale(1.1, 1.1)}
+
+.other9_2{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap4_img9.jpg)no-repeat center top;float:left; position:relative}
+.other9_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other9_2:hover{transform:scale(1.1, 1.1)}
+
+.other9_3{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img0.jpg)no-repeat center top;float:left; position:relative}
+.other9_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other9_3:hover{transform:scale(1.1, 1.1)}
+
+.other9_4{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img1.jpg)no-repeat center top;float:left; position:relative}
+.other9_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other9_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+/*other10*/
+   
+.other10_1{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap5_img2.jpg)no-repeat center top;float:left; position:relative}
+.other10_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other10_1:hover{transform:scale(1.1, 1.1)}
+
+.other10_2{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img3.jpg)no-repeat center top;float:left; position:relative}
+.other10_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other10_2:hover{transform:scale(1.1, 1.1)}
+
+.other10_3{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img4.jpg)no-repeat center top;float:left; position:relative}
+.other10_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other10_3:hover{transform:scale(1.1, 1.1)}
+
+.other10_4{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img5.jpg)no-repeat center top;float:left; position:relative}
+.other10_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other10_4:hover{transform:scale(1.1, 1.1)}
+
+/*other11*/
+   
+.other11_1{width:96px; height:190px; background:url(../../../images/sub/menu/bev/tap5_img3.jpg)no-repeat center top;float:left; position:relative}
+.other11_1 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other11_1:hover{transform:scale(1.1, 1.1)}
+
+.other11_2{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img4.jpg)no-repeat center top;float:left; position:relative}
+.other11_2 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other11_2:hover{transform:scale(1.1, 1.1)}
+
+.other11_3{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img5.jpg)no-repeat center 10px;float:left; position:relative}
+.other11_3 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other11_3:hover{transform:scale(1.1, 1.1)}
+
+.other11_4{width:96px; height:180px; background:url(../../../images/sub/menu/bev/tap5_img6.jpg)no-repeat center 10px;float:left; position:relative}
+.other11_4 a{height:100%; width:100%; position:absolute; top:0; left:0; padding-top:136px; box-sizing:border-box}
+.other11_4:hover{transform:scale(1.1, 1.1)}
+
+
+
+
+
+
+/*quick_menu*/
+.quick_wrap{height:400px; background:url(../../../images/brick_wall.jpg); border-top:1px solid #fff}
+.quick{width:950px; height:240px; margin:auto}
+.quick h2{width:218px; height:30px; background:url(../../../images/quick_title.png)no-repeat; text-indent:-9999px; margin:80px auto 50px}
+
+.quick a{height:100%; display:block}
+.quick_txt1{width:158px; height:158px; background:url(../../../images/quick_img1.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt1:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt2{width:158px; height:158px; background:url(../../../images/quick_img2.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt2:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt3{width:158px; height:158px; background:url(../../../images/quick_img3.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt3:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt4{width:158px; height:158px; background:url(../../../images/quick_img4.png); text-indent:-9999px;float:left; margin-right:40px}
+.quick_txt4:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+.quick_txt5{width:158px; height:158px; background:url(../../../images/quick_img5.png); text-indent:-9999px;float:left}
+.quick_txt5:hover{width:158px; height:158px; background:url(../../../images/quick_hover.png)}
+
+
+/*footer*/
+.footer_wrap{height:200px; background:#bd000d}
+.footer{width:915px; height:200px; margin:auto;}
+.footer_top{font-size:16px; font-weight: bold; padding-top:27px}
+.footer_top a{height:100%; display:block; color:#fff}
+.foot_txt1{float:left; margin-right:65px}
+.foot_txt2{float:left; margin-right:65px}
+.foot_txt3{float:left; margin-right:65px}
+.foot_txt4{float:left; margin-right:65px}
+.foot_txt5{float:left; margin-right:65px}
+.foot_txt6{float:left}
+
+.footer_bottom, address a{color:#e5e5e5}
+.foot_txt_wrap1{margin-top:35px; overflow:hidden}
+.foot_bottom_txt1{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt2{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt3{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt4{float:left; margin-bottom: 10px}
+.foot_txt_wrap2{height:33px}
+
+
+address{float:left; margin:0 20px 10px 0}
+.foot_bottom_txt5{float:left;}

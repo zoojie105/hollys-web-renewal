@@ -1,0 +1,62 @@
+
+/*lnb*/
+
+.lnb_wrap{height:182px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb{width:1200px; margin:auto; position:relative; z-index:1}
+.lnb a{height:100%; display:block}
+.lnb_cont{width:549px;height:160px; margin:auto; padding-top:50px;box-sizing:border-box}
+.lnb dt{width:231px;height:27px; background:url(../images/sub/hollys_news/lnb_title.jpg);text-indent:-9999px; margin:0 auto 59px}
+
+
+
+.lnb1{width:60px; height:23px;background:url(../images/sub/hollys_news/lnb1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:165px}
+.lnb1:hover{width:60px; height:23px;background:url(../images/sub/hollys_news/lnb1_red.jpg) no-repeat}
+    
+.lnb2{width:80px; height:23px;background:url(../images/sub/hollys_news/lnb2.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:165px}
+.lnb2:hover{width:80px; height:23px;background:url(../images/sub/hollys_news/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:79px; height:23px;background:url(../images/sub/hollys_news/lnb3.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb3:hover{width:79px; height:23px;background:url(../images/sub/hollys_news/lnb3_red.jpg) no-repeat}
+
+
+/*locate*/
+.locate{width:1200px;margin:auto; position:relative;margin-top: 30px}
+
+.locate1{float:left; margin-left:100px}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2{float:left}
+.locate2:after{content:">"; margin:0 9px 0 5px}
+.locate3{float:left}
+
+
+/*main*/
+.evt{width:1200px; margin:auto; font-size:16px; clear:both}
+.evt a{display:block; height:100%} 
+.evt_txt{font-weight:bold}
+
+.evt123{margin:100px 0 85px 88px; overflow:hidden}
+.evt456{margin: 0 0 100px 88px; overflow:hidden}
+
+.day123{font-size:16px; margin-top:5px}
+
+.evt1{width:283px; height:370px; background:url(../images/sub/hollys_news/evt_img1.jpg)no-repeat; padding-top:345px;box-sizing:border-box;float:left; margin-right:85px; position:relative}
+.evt1 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:300px;box-sizing:border-box}
+
+
+.evt2{width:283px; height:370px; background:url(../images/sub/hollys_news/evt_img2.jpg)no-repeat; padding-top:345px;box-sizing:border-box; float:left; margin-right:85px; position:relative}
+.evt2 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:300px;box-sizing:border-box}
+
+.evt3{width:283px; height:370px; background:url(../images/sub/hollys_news/evt_img3.jpg)no-repeat; padding-top:345px;box-sizing:border-box; float:left; position:relative}
+.evt3 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:300px;box-sizing:border-box}
+
+
+.evt4{width:283px; height:370px; background:url(../images/sub/hollys_news/evt_img4.jpg)no-repeat; padding-top:345px;box-sizing:border-box;float:left; margin-right:85px; position:relative}
+.evt4 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:300px;box-sizing:border-box}
+
+.evt5{width:283px; height:370px; background:url(../images/sub/hollys_news/evt_img5.jpg)no-repeat; padding-top:345px;box-sizing:border-box; float:left; margin-right:85px; position:relative}
+.evt5 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:300px;box-sizing:border-box}
+
+.evt6{width:283px; height:400px; background:url(../images/sub/hollys_news/evt_img6.jpg)no-repeat; padding-top:345px;box-sizing:border-box; float:left; position:relative}
+.evt6 a{position:absolute; width:100%; height:100%; top:0; left:0; padding-top:300px;box-sizing:border-box}
+
+

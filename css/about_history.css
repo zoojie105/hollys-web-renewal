@@ -1,0 +1,152 @@
+
+/*lnb*/
+.lnb_wrap{height:182px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb{width:1200px; margin:auto; position:relative; z-index:1}
+.lnb a{height:100%; display:block}
+.lnb dl{width:1100px;height:160px; margin:auto; padding-top:50px;box-sizing:border-box}
+
+.lnb dt{width:122px; height:27px; background:url(../images/sub/about/lnb_title.jpg)no-repeat;text-indent:-9999px; margin:0 auto 59px}
+
+.lnb1{width:103px; height:23px;background:url(../images/sub/about/lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.lnb1:hover{width:103px; height:23px;background:url(../images/sub/about/lnb1_red.jpg) no-repeat}
+ 
+.lnb2{width:83px; height:23px;background:url(../images/sub/about/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.lnb2:hover{width:83px; height:23px;background:url(../images/sub/about/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:139px; height:23px;background:url(../images/sub/about/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.lnb3:hover{width:139px; height:23px;background:url(../images/sub/about/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:78px; height:23px;background:url(../images/sub/about/lnb4.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.lnb4:hover{width:78px; height:23px;background:url(../images/sub/about/lnb4_red.jpg) no-repeat}
+
+.lnb5{width:76px; height:23px;background:url(../images/sub/about/lnb5.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.lnb5:hover{width:76px; height:23px;background:url(../images/sub/about/lnb5_red.jpg) no-repeat}
+
+.lnb6{width:119px; height:23px;background:url(../images/sub/about/lnb6.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb6:hover{width:119px; height:23px;background:url(../images/sub/about/lnb6_red.jpg) no-repeat}
+
+
+/*tap menu*/
+
+.tap_wrap{width:1200px; background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tap{margin: 10px 0 0 326px}
+.tap a{height:100%;display:block}
+.tap ul{padding-top:8px}
+.tap li{margin-right:146px}
+
+.tap1{width:93px; height:31px; background:url(../images/sub/about/lnb_tap1.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:150px}
+.tap1 a:hover{width:93px; height:31px; background:url(../images/sub/about/lnb_tap1_bar.jpg)no-repeat}
+
+.tap2{width:78px; height:31px; background:url(../images/sub/about/lnb_tap2.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:150px}
+.tap2 a:hover{width:78px; height:31px; background:url(../images/sub/about/lnb_tap2_bar.jpg)no-repeat}
+
+.tap3{width:56px; height:31px; background:url(../images/sub/about/lnb_tap3.jpg)no-repeat; text-indent:-9999px; float:left}
+.tap3 a:hover{width:56px; height:31px; background:url(../images/sub/about/lnb_tap3_bar.jpg)no-repeat}
+
+
+
+
+/*locate*/
+.locate{width:1200px;margin:auto; position:relative;margin-top: 30px; height:21px;}
+.locate1{float:left; margin-left:38px}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2 {float:left}
+.locate2:after{content:">"; margin:0 9px 0 5px}
+
+
+
+
+
+
+/*main*/
+
+.cont_wrap{width:1200px; margin:auto}
+.cont_top{width:1100px; margin: 80px auto 100px}
+.cont_top h2{width:195px; height:35px; background: url(../images/sub/about/history/main_title.jpg)no-repeat; text-indent:-9999px; margin-bottom: 20px}
+.cont_top h3{font-size:24px; margin-bottom:30px}
+
+.cont_bottom{width:660px; margin:0 0 100px 150px}
+.cont_bottom h2{width:128px; height:58px; background:url(../images/sub/about/history/history.png)no-repeat; text-indent:-9999px; margin-bottom:15px}
+.cont_bottom .line{margin-left:50px; border-left:3px solid #6f6f6f}
+.year{font-weight: bold;font-size:20px;color:#ba000d}
+.year_s{font-weight: bold;font-size:18px;color:#ba000d}
+
+
+.cont1_wrap{width:280px; height:135px; background:url(../images/sub/about/history/1988.png)left 73px no-repeat; margin:0 0 50px -25px}
+.cont1{width:217px; height:135px; margin-left:63px; background:url(../images/sub/about/history/1988_1.png)top right no-repeat}
+.cont1 .year{padding-top:85px}
+.cont1 li{float:left}
+.cont1 .txt1{padding:90px 0 0 30px}
+.cont1 .txt2{padding-left:30px}
+
+
+.cont2{width:149px; height:50px; background:url(../images/sub/about/history/2003.png)left center no-repeat; margin:0 0 50px -25px}
+.cont2 .year{padding:10px 0 0 80px}
+
+.cont3{width:236px; height:30px; background:url(../images/sub/about/history/dot.png)left center no-repeat; margin:0 0 30px -8px}
+.cont3 .year_s{padding-left:63px}
+.cont3 li{float:left}
+.cont3 .txt1{padding:3px 0 0 30px}
+
+.cont4{width:236px; height:30px; background:url(../images/sub/about/history/dot.png)left center no-repeat; margin:0 0 50px -8px}
+.cont4 .year_s{padding-left:63px}
+.cont4 li{float:left}
+.cont4 .txt1{padding:3px 0 0 30px}
+
+.cont5{width:149px; height:50px; background:url(../images/sub/about/history/2008.png)left center no-repeat; margin:0 0 10px -25px}
+.cont5 .year{padding:10px 0 0 80px}
+
+
+.cont6_wrap{width:370px; height:103px; background:url(../images/sub/about/history/dot.png)left 65px no-repeat; margin:0 0 30px -8px}
+.cont6{width:300px; height:103px; margin-left:63px; background:url(../images/sub/about/history/2009.png)top right no-repeat}
+.cont6 .year_s{padding-top:57px; float:left}
+.cont6 .txt1{padding:60px 0 0 30px; float:left}
+.cont6 .txt2{padding-left:90px; clear:both}
+
+.cont7{width:341px; height:30px; background:url(../images/sub/about/history/dot.png)left center no-repeat; margin:0 0 50px -8px}
+.cont7 .year_s{padding-left:63px}
+.cont7 li{float:left}
+.cont7 .txt1{padding:3px 0 0 30px}
+
+.cont8_wrap{width:418px; height:74px; background:url(../images/sub/about/history/dot.png)left top no-repeat; margin:0 0 50px -8px}
+.cont8{width:355px; height:74px; background:url(../images/sub/about/history/2012.png)right no-repeat; margin-left:63px}
+.cont8 .year_s{float:left}
+.cont8 .txt1{padding:5px 0 0 30px; float:left}
+.cont8 .txt2{padding-left:90px; clear:both}
+.cont8 .txt3{padding-left:90px}
+
+.cont9{width:251px; height:50px; background:url(../images/sub/about/history/2013.png)left center no-repeat; margin:0 0 30px -25px}
+.cont9 .year{padding:10px 0 0 80px; float:left}
+.cont9 .txt1{padding:15px 0 0 30px; float:left}
+
+.cont10_wrap{width:365px; height:73px; background:url(../images/sub/about/history/dot.png)left 25px no-repeat; margin:0 0 30px -8px}
+.cont10{width:302px; height:73px; margin-left:63px; background:url(../images/sub/about/history/2014.png)top right no-repeat}
+.cont10 .year_s{padding-top:20px; float:left}
+.cont10 .txt1{padding:25px 0 0 30px; float:left}
+.cont10 .txt2{padding-left:90px; clear:both}
+
+.cont11{width:384px; height:50px; background:url(../images/sub/about/history/2015.jpg)left center no-repeat; margin:0 0 50px -25px}
+.cont11 .year{padding:10px 0 0 80px; float:left}
+.cont11 .txt1{padding:15px 0 0 30px; float:left}
+
+.cont12{width:354px; height:43px; background:url(../images/sub/about/history/dot.png)left top no-repeat; margin:0 0 50px -8px}
+.cont12 .year_s{padding-left:63px}
+.cont12 li{float:left}
+.cont12 .txt1{padding:3px 0 0 30px}
+.cont12 .txt2{padding-left:30px}
+
+.cont13_wrap{width:498px; height:123px; background:url(../images/sub/about/history/dot.png)left 25px no-repeat; margin-left: -8px}
+.cont13{width:435px; height:123px; margin-left:63px; background:url(../images/sub/about/history/2017.png)top right no-repeat}
+.cont13 .year_s{padding-top:20px}
+.cont13 li{float:left}
+.cont13 .txt1{padding:25px 0 0 30px}
+.cont13 .txt2{padding-left:30px}
+
+.cont14_wrap{width:316px; height:90px; background:url(../images/sub/about/history/dot.png)left 25px no-repeat; margin-left: -8px}
+.cont14{width:253px; height:310px; margin-left:63px; background:url(../images/sub/about/history/2018_1.png) right 55px no-repeat}
+.cont14 .year_s{padding-top:20px}
+.cont14 li{float:left}
+.cont14 .txt1{padding:25px 0 0 30px}
+
+img{margin-left:-30px}
+

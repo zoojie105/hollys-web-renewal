@@ -1,0 +1,138 @@
+/*링크 말풍선값 안보이게*/
+/* .hide-title-attr{pointer-events: none} */
+
+/*lnb*/
+.lnb{width:1200px; margin:auto; padding-top:50px; position:relative; z-index:1}
+.lnb_back{position:relative; height:182px}
+.lnb_box{width:100%; height:100%;background:#fff; box-shadow:10px 13px 10px 4px #d4d4d4;position:absolute;top:0;}
+.lnb dl{width:680px; height:22px;margin:auto}
+
+
+.lnb a{height:100%; display:block}
+
+.lnb dt{width:227px; height:27px; background:url(../images/sub/Membership/title.jpg)no-repeat;text-indent:-9999px; margin:0 auto 59px}
+
+.lnb1{width:102px; height:22px;background:url(../images/sub/Membership/lnb1.jpg) no-repeat; text-indent:-9999px; float:left;margin-right:170px}
+.lnb1:hover{width:102px; height:22px;background:url(../images/sub/Membership/lnb1_red.jpg) no-repeat}
+ 
+.lnb2{width:145px; height:22px;background:url(../images/sub/Membership/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:170px}
+.lnb2:hover{width:145px; height:22px;background:url(../images/sub/Membership/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:91px; height:22px;background:url(../images/sub/Membership/lnb3.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb3:hover{width:91px; height:22px;background:url(../images/sub/Membership/lnb3_red.jpg) no-repeat}
+
+
+ /*tab menu*/
+
+.tab_wrap{width:1200px; background:#faf7f7; border-radius: 0 0 50px 30px; margin:auto; height:40px}
+.tab{width: 970px; margin: 10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+
+.tab1{width:84px; height:30px; background:url(../images/sub/membership/my_hollys/tab1.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab1 a:hover{width:84px; height:30px; background:url(../images/sub/membership/my_hollys/tab1_red.jpg)no-repeat}
+
+.tab2{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab2.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab2 a:hover{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab2_red.jpg)no-repeat}
+
+.tab3{width:120px; height:30px; background:url(../images/sub/membership/my_hollys/tab3.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab3 a:hover{width:120px; height:30px; background:url(../images/sub/membership/my_hollys/tab3_red.jpg)no-repeat}
+
+.tab4{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab4.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:130px}
+.tab4 a:hover{width:69px; height:30px; background:url(../images/sub/membership/my_hollys/tab4_red.jpg)no-repeat}
+
+.tab5{width:107px; height:30px; background:url(../images/sub/membership/my_hollys/tab5.jpg)no-repeat; text-indent:-9999px; float:left}
+.tab5 a:hover{width:107px; height:30px; background:url(../images/sub/membership/my_hollys/tab5_red.jpg)no-repeat}
+
+
+
+
+/*locate*/
+.locate{width:1200px;margin:auto; position:relative;margin:30px auto 50px; height:21px;}
+.locate1{float:left; margin-left:150px}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2 {float:left}
+.locate2:after{content:">"; margin:0 9px 0 5px}
+.locate3 {float:left}
+.locate3:after{content:">"; margin:0 9px 0 5px}
+
+
+/*main*/
+form{width:1200px; margin:auto}
+fieldset{width:800px; margin:auto; position:relative}
+fieldset, button{border:0; cursor:pointer}
+fieldset a{display:block; width:100%; height:100%}
+legend{margin-left:-50px}
+.modify_info{position:relative}
+.title1{width:200px; height:40px; background:url(../images/sub/Membership/my_hollys/tab5/tab1_red.jpg)no-repeat; text-indent:-9999px; margin-top:50px}
+.title2{width:110px; height:40px; background:url(../images/sub/Membership/my_hollys/tab5/tab2.jpg)no-repeat; text-indent:-9999px;position:absolute; top: 50px; left: 200px}
+
+.title1_click{width:200px; height:40px; background:url(../images/sub/Membership/my_hollys/tab5/tab1.jpg)no-repeat; text-indent:-9999px; margin-top:50px}
+.title2_click{width:110px; height:40px; background:url(../images/sub/Membership/my_hollys/tab5/tab2_red.jpg)no-repeat; text-indent:-9999px;position:absolute; top: 50px; left: 200px}
+
+.top_line{width:600px;border-bottom:1px solid #9c9c9c; margin:-1px 0 0 200px}
+
+.modify_info h3{font-size:18px; margin-top:55px;border-bottom:2px solid #000}
+.th{padding:15px 0 15px 20px; font-size:18px; font-weight:bold}
+.info2_1{padding:10px 0 10px 170px; font-size:16px; background:#f5f5f5}
+button[name="modify_small"]{width:68px; height:33px; background: url(../images/sub/Membership/my_hollys/tab5/btn_modify_small.jpg)no-repeat; text-indent:-9999px; float:right; position:absolute; top:152px; left:650px}
+.info1, .info2, .info2_1, .info3, .info4{border-bottom: 1px solid #9c9c9c}
+.info4 a{width:30px; height:30px; background: url(../images/sub/Membership/my_hollys/info.jpg)no-repeat; display:block; position:absolute; top:264px; left: 350px}
+.info5{border-bottom:2px solid #000}
+.modify_info2 .info1 span{margin-left:5px}
+.modify_info1 span{color:#6f6f6f; font-size:16px}
+.modify_info1 .info1 span{margin-left:90px}
+.modify_info1 .info2 span{margin-left:33px}
+.modify_info1 .info3 span{margin-left:73px}
+
+input[name="user_pwd"]{width:180px; height:20px; margin-left:10px}
+input[name="re_pwd"]{width:180px; height:20px; margin-left:10px}
+input[name="level"]{width:60px; height:20px; margin-left:44px}
+
+.modify_info2 .info1{height:28px}
+input[name="email_id"]{width:180px; height:20px; margin-left:66px}
+input[name="email_dns"]{width:180px; height:20px; margin-left:5px}
+select[name="email_sel"]{width:100px; height:25px}
+input[name="postalCode"]{width:180px; height:20px; margin: 0 5px 5px 84px }
+button[name="addr_search"]{width:100px; height:30px; background:url(../images/sub/Membership/my_hollys/tab5/btn_search.jpg)no-repeat; text-indent:-9999px}
+input[name="addr1"]{width:420px; height:20px; margin:0 0 5px 122px}
+input[name="addr2"]{width:420px; height:20px; margin-left:122px}
+input[name="dob"]{width:120px; height:20px; margin-left:48px}
+input[type="radio"]{margin-left:115px}
+.modify_info2 .info4{margin-bottom:80px}
+.modify_info2{margin-bottom:100px}
+.modify_info2 .info4 .txt1{font-size:16px; font-weight:normal; margin-left:25px}
+.modify_info2 .info4 .txt2{font-size:16px; font-weight:normal}
+input[name="per"], input[name="biz"]{width:250px; height:20px}
+.per1{margin-left:135px}
+.biz1{margin-left:135px}
+.modify_info2 .info4 .txt3{font-size:16px; font-weight:normal}
+.modify_info2 .info4 .txt4{font-size:16px; font-weight:normal}
+.modify_info2 .info4 .txt5{font-size:16px; font-weight:normal; margin-left:135px; color:#666}
+.btn_wrap{width:264px; margin:auto}
+.btn_wrap_admin{width:428px; margin:auto}
+button[name="modify"]{width:120px; height:63px; background: url(../images/sub/Membership/my_hollys/tab5/btn_modiy.jpg)no-repeat;text-indent:-9999px; margin-right:20px}
+button[name="del"]{width:140px; height:63px; background: url(../images/sub/admin/btn_del.jpg)no-repeat;text-indent:-9999px; margin-right:20px}
+button[name="cancel"]{width:120px; height:63px; background: url(../images/sub/Membership/my_hollys/tab5/btn_cancel.jpg)no-repeat;text-indent:-9999px}
+
+
+
+/*회원 탈퇴*/
+.del_info{display: none}
+.del_info1{margin-bottom:75px}
+.del_info1 .txt1{margin: 40px 0 20px; font-size:24px; font-weight:bold; color:#6f6f6f}
+.del_info1 .txt2{margin-bottom:53px; font-size:18px; color:#6f6f6f}
+dt{font-size:18px; font-weight:bold; margin-bottom:20px}
+dd{margin-bottom:7px; color:#6f6f6f}
+.del_info1 .txt3{margin-left:5px}
+
+.del_info2{border-top:2px solid #000; margin-bottom: 100px}
+.info1 span{margin-left:73px; color:#6f6f6f}
+input[name="del_pwd"]{width:180px; height:20px; margin-left:50px}
+.del_info2 > ul ul span{font-weight: normal; font-size:16px; margin-left:50px}
+input[name="reason"]{width:500px; height:100px; margin:5px 0 0 123px}
+.del_info2 .info3{border-bottom:2px solid #000; margin-bottom:80px;}
+button[name="delete"]{width:120px; height:63px; background: url(../images/sub/Membership/my_hollys/tab5/btn_del.jpg)no-repeat;text-indent:-9999px; margin-right:20px}
+
+
