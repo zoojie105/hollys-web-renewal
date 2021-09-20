@@ -71,7 +71,31 @@ if($s_idx){
                     });
                 };
             });
-            
+            $(".user_pwd").keyup(function(){
+                var user_id = $(".user_id").val();
+                var user_pwd = $(".user_pwd").val();
+                if(!user_pwd){
+                    $(".err").html("비밀번호를 입력해주세요");
+                    $(".user_pwd").focus();
+                    return false;
+                }else{
+                    $.ajax({
+                        url:"../ajax/login_pwd_ajax.php",
+                        type:"post",
+                        data:{user_pwd:user_pwd, user_id:user_id},
+                        success:function(data){
+                            $(".err").html(data);                      
+                        },
+                        err:function(){
+                            $(".err").html("ERROR");
+                        }
+                    });
+                };
+            });
+
+
+
+
         });
     
        
@@ -164,7 +188,7 @@ if($s_idx){
             <label for="user_id" class="blind">ID</label><br>
             <input type="text" name="user_id" id="user_id" class="user_id">
             <label for="user_pwd" class="blind">Password</label><br>
-            <input type="password" name="user_pwd" id="user_pwd"><br>
+            <input type="password" name="user_pwd" id="user_pwd" class="user_pwd"><br>
             <span class="err"></span>
         <button type="submit" name="login" value="login" class="btn_login">로그인</button>
         
