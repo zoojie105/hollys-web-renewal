@@ -44,17 +44,7 @@
                 email.focus();
                 return false;
             };
-            
-            
-            // var email_check = /^([0-9a-zA-Z_\.-]+)@([0-9a-zA-Z_-]+)(\.[0-9a-zA-Z_-]+){1,2}+$/g;
-            // if(!email_check.test(email_check.value)){
-            //     var txt = document.querySelector(".email_err");
-            //     txt.textContent = "올바른 이메일형식이 아닙니다.";
-            //     console.log("ASd")
-            //     email.focus();
-            //     return false;
-            // };
-
+        
             return true;
         };
 
@@ -69,7 +59,7 @@
                     return false;
                 } else{
                     $.ajax({
-                        url:"find_name_ajax.php",
+                        url:"../ajax/find_name_ajax.php",
                         type:"post",
                         data:{user_name:user_name},
                         success:function(data){

@@ -1,11 +1,7 @@
 /*lnb*/
-.lnb{width:1200px; margin:auto; padding-top:50px; position:relative; z-index:1}
-.lnb_back{position:relative; height:182px}
-.lnb_box{width:100%; height:100%;background:#fff; box-shadow:10px 13px 10px 4px #d4d4d4;position:absolute;top:0;}
-.lnb dl{width:710px; height:22px;margin:auto}
-
-
+.lnb_wrap{height:182px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
 .lnb a{height:100%; display:block}
+.lnb dl{width:710px; height:22px;margin:auto; padding-top:50px}
 
 .lnb dt{width:174px; height:27px; background:url(../images/sub/admin/lnb_title.jpg)no-repeat;text-indent:-9999px; margin:0 auto 59px}
 
@@ -19,16 +15,16 @@
 .lnb4:hover{width:79px; height:19px;background:url(../images/sub/admin/lnb4_red.jpg) no-repeat}
 
 /*locate*/
-.locate{width:1200px;margin:auto; position:relative;margin:30px auto 50px; height:21px;}
-.locate1{float:left; margin-left:75px}
+.locate{width:1100px; margin:30px auto 0; position:relative; height:21px;}
+.locate1{float:left}
 .locate1:after{content:">"; margin:0 9px 0 5px}
 .locate2 {float:left}
 .locate2:after{content:">"; margin:0 9px 0 5px}
 .locate3 {float:left}
 
 /*main*/
-.mem_list_wrap{width:1200px; margin:auto}
-.mem_list h2{margin:50px 0 50px 75px; width:141px; height:33px; background: url(../images/sub/admin/title.jpg)no-repeat; text-indent:-9999px}
+.mem_list_wrap{width:1100px; margin:auto}
+.mem_list h2{margin:50px 0; width:141px; height:33px; background: url(../images/sub/admin/title.jpg)no-repeat; text-indent:-9999px}
 
 .bor{border-left:1px solid #999}
 table{width:1100px; margin:0 auto 100px; border-top:1px solid #6f6f6f; border-bottom:1px solid #6f6f6f; border-collapse:collapse; text-align:center}
@@ -43,3 +39,11 @@ td{height:50px; vertical-align: top; padding:5px}
 .mem_addr{width:220px}
 .mem_receipt{width:96px}
 .mem_modi, .mem_del{width:40px}
+
+@media screen and (max-width: 1024px){
+    .locate {width: 845px}
+}
+
+@media screen and (max-width: 960px){
+    .locate {width: 774px}
+}

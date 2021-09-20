@@ -65,13 +65,8 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
                     <li><a href="bev.php">음료</a></li>
                     <li><a href="../dessert/dessert.php">디저트·식사</a></li>
                     <li><a href="../md/md.php">MD상품</a></li>
-                    <li class="adv">
-                    <a href="../coffee/latte_vanilla.php">1초에 한잔씩 판매되는 할리스 넘버원 라떼 바닐라 딜라이트</a>
-                    </li>
                 </ul>
             </li>
-            
-
             <li class= "mall"><a href="../../hollys_mall.php">할리스 몰</a>
                 <ul class="sub">
                     <li><a href="../../hollys_mall.php">할리스콘</a></li>

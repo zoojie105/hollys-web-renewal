@@ -21,6 +21,7 @@ button{width:98px; height:98px;background: #6f6f6f; color:#fff; font-size:24px; 
 .join{width:180px;height:180px;background:url(../images/sub/login/sign.jpg)no-repeat right;text-indent:-9999px; position:absolute; left:465px; top:175px; border-left:1px solid #4d4d4d; padding-left:30px}
 .join a{height:100%; display:block}
 
+.err{margin-top: 10px; display: block; color:#ba000d}
 
 .txt1{margin:15px 55px 0 0; float:left}
 .txt2{float:left; margin:15px 15px 0 0}
@@ -30,4 +31,11 @@ button{width:98px; height:98px;background: #6f6f6f; color:#fff; font-size:24px; 
 @media screen and (max-width: 1024px){
     .locate {width: 845px}
 
+    .term{width: 750px; margin: auto}
+    .term1,.term2,.term3{width:750px; height:250px}
+
+}
+
+@media screen and (max-width: 960px){
+    .locate {width: 774px}
 }

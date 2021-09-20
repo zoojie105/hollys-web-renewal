@@ -29,14 +29,15 @@ if($s_idx){
         function form_check(){
             var user_id = document.getElementById("user_id");
             var user_pwd = document.getElementById("user_pwd");
+            var txt = document.querySelector(".err");
 
             if(!user_id.value){
-                alert("아이디를 입력하세요.");
+                txt.textContent = "아이디를 입력하세요.";
                 user_id.focus();
                 return false;
             };
             if(!user_pwd.value){
-                alert("비밀번호를 입력하세요");
+                txt.textContent = "비밀번호를 입력하세요.";
                 user_pwd.focus();
                 return false;
             };
@@ -49,18 +50,29 @@ if($s_idx){
             window.open("find_pw.php", "fpw", "width=550, height=320, left=600, top=200");
         };
         
-        function save(){
-            var save_id = document.getElementById("save_id");
-
-            if(save_id.checked){
-                alert("Test1")
-                if(!window['localStorage']){
-                    var user_id = document.getElementById("user_id");
-                    window.localStorage['']
-                }
-
-            };
-        };
+        $(document).ready(function(){
+            $(".user_id").keyup(function(){
+                var user_id = $(".user_id").val();
+                if(!user_id){
+                    $(".err").html("아이디를 입력해주세요");
+                    $(".user_id").focus();
+                    return false;
+                }else{
+                    $.ajax({
+                        url:"../ajax/login_id_ajax.php",
+                        type:"post",
+                        data:{user_id:user_id},
+                        success:function(data){
+                            $(".err").html(data);                      
+                        },
+                        err:function(){
+                            $(".err").html("ERROR");
+                        }
+                    });
+                };
+            });
+            
+        });
     
        
     </script>
@@ -83,9 +95,6 @@ if($s_idx){
                         <li><a href="../menu/dessert/dessert.php">디저트·식사</a></li>
                         <li><a href="../menu/md/md.php">MD상품</a></li>
                     </ul>
-                </li>
-                <li class="adv sub">
-                    <a href="../menu/coffee/latte_vanilla.php">1초에 한잔씩 판매되는 할리스 넘버원 라떼 바닐라 딜라이트</a>
                 </li>
                 <li class= "mall"><a href="../hollys_mall.php">할리스 몰</a>
                     <ul class="sub">
@@ -153,9 +162,10 @@ if($s_idx){
     <h2 class="blind">로그인</h2>
     <h3>WELCOM</h3>
             <label for="user_id" class="blind">ID</label><br>
-            <input type="text" name="user_id" id="user_id">
+            <input type="text" name="user_id" id="user_id" class="user_id">
             <label for="user_pwd" class="blind">Password</label><br>
-            <input type="password" name="user_pwd" id="user_pwd">
+            <input type="password" name="user_pwd" id="user_pwd"><br>
+            <span class="err"></span>
         <button type="submit" name="login" value="login" class="btn_login">로그인</button>
         
         <ul>

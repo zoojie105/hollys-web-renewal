@@ -70,9 +70,6 @@ mysqli_close($dbcon);
                         <li><a href="../menu/md/md.php">MD상품</a></li>
                     </ul>
                 </li>
-                <li class="adv sub">
-                    <a href="../latte_vanilla.php">1초에 한잔씩 판매되는 할리스 넘버원 라떼 바닐라 딜라이트</a>
-                </li>
                 <li class= "mall"><a href="../hollys_mall.php">할리스 몰</a>
                     <ul class="sub">
                         <li><a href="../hollys_mall.php">할리스콘</a></li>
@@ -133,7 +130,7 @@ mysqli_close($dbcon);
 </div>
 
 <main id="main" class="main">
-<div class="lnb_back">
+<div class="lnb_wrap">
     <article class="lnb">
     <h2 class="blind">서브메뉴</h2>
     <dl>
@@ -146,8 +143,7 @@ mysqli_close($dbcon);
         </div>
     </dl>
     </article>
-    <div class="lnb_box"></div>
-    </div>
+</div>
 
 <aside class="locate">
 <h2 class="blind">사용자 위치</h2>

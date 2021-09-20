@@ -1,13 +1,13 @@
 .sub,.sub_box{display:none}
 
 /*header*/
-.header_wrap{height:250px; border-top:15px solid #BA000d;box-sizing:border-box; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4; z-index:99}
-#header{height:205px; margin:auto; position:relative}
+.header_wrap{height:196px; border-top:15px solid #BA000d;box-sizing:border-box; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4; z-index:99}
+#header{height:150px; margin:auto; position:relative}
 
 
-.header_bottom{width: 917px; height:205px;margin:auto}
-h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repeat; text-indent:-9999px; margin-top: 30px}
-.header_bottom nav{margin-left: 190px; margin-top:36px}
+.header_bottom{width: 917px; height:150px;margin:30px auto 0}
+h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repeat; text-indent:-9999px; float: left}
+.header_bottom nav{margin-left: 50px; margin-top:114px; float: left}
 #header a{display:block; height:100%}  
 
 
@@ -30,7 +30,7 @@ h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repea
 
 
 /*sub*/
-.sub_box{height:290px; background:#fff; box-shadow:10px 13px 10px 4px #d4d4d4}
+.sub_box{width:100%; height:290px; background:#fff; box-shadow:10px 13px 10px 4px #d4d4d4}
 .sub{text-indent:0; position:absolute; font-size:16px; font-weight:bold}
 .sub li{padding-top:20px}
 .sub a:hover{color:#bd000d}
@@ -38,13 +38,10 @@ h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repea
 .mall ul{width: 76px; padding-right: 99px}
 .member ul{padding-right: 70px}
 .news ul{padding-right: 127px}
-.adv{width:139px;height:159px; background:url(../../images/sub/gnb_adv.jpg)left bottom no-repeat;text-indent:-9999px; padding: 29px 47px 0 0; margin:20px -185px 0}
-.adv a{width:100%; height:100%}
-.adv:hover{transform:scale(1.1, 1.1)}
 
 
 /*top_menu*/
-.top_menu{margin:auto; position:absolute; top:-10px; right:50px}
+.top_menu{margin:auto; position:absolute; top:0; right:50px}
 
 .top_menu li{float:left}
 .login, .register, .customer{margin-right: 15px}
@@ -59,11 +56,11 @@ h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repea
 
 
 @media screen and (max-width: 1024px){
-    h1{width:110px; height:105px; background:url(../../images/sub/1024px/logo.jpg)no-repeat; margin-top: 30px}
-    #header{height:155px}
-    .header_wrap{height:200px}
-    .header_bottom{width: 845px; height: 155px}
-    .header_bottom nav{margin-left: 155px; margin-top:14px}
+    h1{width:110px; height:105px; background:url(../../images/sub/1024px/logo.jpg)no-repeat}
+    #header{height:120px}
+    .header_wrap{height:165px}
+    .header_bottom{width: 836px; height: 120px}
+    .header_bottom nav{margin-left: 40px; margin-top:85px}
 
 
 
@@ -90,19 +87,19 @@ h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repea
     .mall{width:95px; padding-right:75px}
     .member ul{width:104px; padding-right: 55px}
     .news ul {width: 105px; padding-right: 55px}
-    .adv{width:111px;height:128px; background:url(../../images/sub/1024px/gnb_adv.jpg)left bottom no-repeat; margin:20px 0 0 -158px}
 
 
 }
 
 @media screen and (max-width: 960px){
     h1{width:90px; height:86px; background:url(../../images/sub/960px/logo.jpg)no-repeat}
-    #header{height:130px}
-    .header_wrap{height:175px}
-    .header_bottom{width: 774px; height: 130px}
-    .header_bottom nav{margin-left: 125px; margin-top:10px}
+    #header{height:102px}
+    .header_wrap{height:148px}
+    .header_bottom{width: 779px; height: 102px}
+    .header_bottom nav{margin-top:70px}
 
-
+    .fran{display:none}
+    .customer{margin-right: 0}
 
     .menu{width: 48px; height:33px; background:url(../../images/sub/960px/gnb_menu.jpg)no-repeat}
     .menu:hover{width: 48px; height:33px; background:url(../../images/sub/960px/gnb_menu_red.jpg)no-repeat}
@@ -123,7 +120,6 @@ h1{width:140px; height:133px; background:url(../../images/sub/logo.jpg) no-repea
     /*sub*/
     .sub{font-size:14px}
     .about ul{width:97px}
-    .adv{width:92px;height:106px; background:url(../../images/sub/960px/gnb_adv.jpg)left bottom no-repeat; margin:20px 0 0 -112px; padding: 29px 20px 0 0}
 
 
 }
