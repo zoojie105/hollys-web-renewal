@@ -7,9 +7,21 @@ include "../../inc/dbcon.php";
 $sql = "select * from members;";
 
 $result = mysqli_query($dbcon, $sql);
-mysqli_close($dbcon);
-
-
+$num = mysqli_num_rows($result);
+$list_num = 10;
+$page_num = 5;
+$page = isset($_GET["page"])? $_GET["page"] : 1;
+$total_page = ceil($num / $list_num);
+$total_block = ceil($total_page/$page_num);
+$now_block = ceil($page / $page_num);
+$s_pageNum = ($now_block - 1) * $page_num + 1;
+if($s_pageNum <= 0){
+    $s_pageNum = 1;
+};
+$e_pageNum = $now_block * $page_num;
+if($e_pageNum > $total_page){
+    $e_pageNum = $total_page;
+};
 
 ?>
 
@@ -24,7 +36,7 @@ mysqli_close($dbcon);
     <link rel="stylesheet" type="text/css" href="../../css/com/header_txt.css">
     <link rel="stylesheet" type="text/css" href="../../css/com/quick_footer.css">
     <link rel="stylesheet" type="text/css" href="../../css/admin.css">
-    <link rel="shortcut icon" type="images/x-icon" href="favicon.ico"/>
+    <link rel="shortcut icon" type="images/x-icon" href="../favicon.ico"/>
 
     <script type="text/javascript" src="../../js/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="../../js/header.js"></script>
@@ -47,6 +59,12 @@ mysqli_close($dbcon);
         if(ck == true){
             location.href="../members/logout.php";
         };
+    };
+    function del_mem(idx){
+        var ck = confirm("정말 해당 회원을 삭제하시겠습니까?\삭제된 회원은 복구할 수 없습니다."); 
+        if(ck == true){
+            location.href="delete.php?idx="+idx;
+        }
     };
     </script>
 
@@ -171,9 +189,15 @@ mysqli_close($dbcon);
             <th class="mem_modi bor">수정</th>
             <th class="mem_del bor">삭제</th>
         </tr>
-        <?php while($array = mysqli_fetch_array($result)){?>
+        <?php
+        $start = ($page - 1) * $list_num;
+        $sql = "select * from members limit $start, $list_num;";
+        $result = mysqli_query($dbcon, $sql);
+        $cnt = $start + 1;
+        while($array = mysqli_fetch_array($result)){
+        ?>
         <tr>
-            <td><?php echo $array["idx"];?></td>
+            <td><?php echo $cnt;?></td>
             <td class="bor"><?php echo $array["user_name"];?></td>
             <td class="bor"><?php echo $array["user_id"];?></td>
             <td class="bor"><?php echo $array["dob"];?></td>
@@ -188,11 +212,33 @@ mysqli_close($dbcon);
             <td class="bor"><?php echo $array["level"];?></td>
             <td class="bor"><?php echo $array["receipt"];?></td>
             <td class="bor"><a href="edit.php?g_idx=<?php echo $array["idx"]; ?>">수정</a></td>
-            <td class="bor"><a href="#">삭제</a></td>
+            <td class="bor"><a href="#" onclick="del_mem(<?php echo $array['idx']; ?>)">삭제</a></td>
         </tr>
-        <?php }; ?>
+        <?php 
+            $cnt = $cnt + 1;
+        }; 
+        ?>
     </table>
 
+    <p class="pager">
+
+    <?php if($page <= 1){ ?>
+    <a href="admin.php?page=1">이전</a>
+    <?php }else{ ?>
+    <a href="admin.php?page=<?php echo ($page-1); ?>">이전</a>
+    <?php }; ?>
+
+    <?php for($print_page = $s_pageNum; $print_page <= $e_pageNum; $print_page++){ ?>
+    <span><a href="admin.php?page=<?php echo $print_page; ?>"><?php echo $print_page; ?></a></span>
+    <?php }; ?>
+    
+    <?php if($page >= $total_page){ ?>
+    <a href="admin.php?page=<?php echo $total_page; ?>">다음</a>
+    <?php }else{ ?>
+    <a href="admin.php?page=<?php echo ($page+1); ?>">다음</a>
+    <?php }; ?>
+    </p>
+    
 </section>
 </div>
 
