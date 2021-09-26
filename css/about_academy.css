@@ -1,0 +1,79 @@
+
+/*lnb*/
+.lnb_wrap{height:182px; position:relative; box-shadow:10px 13px 10px 4px #d4d4d4}
+.lnb a{height:100%; display:block}
+.lnb dl{width:998px;height:160px; margin:auto; padding-top:50px;box-sizing:border-box}
+
+.lnb dt{width:122px; height:27px; background:url(../images/sub/about/lnb_title.jpg)no-repeat;text-indent:-9999px; margin:0 auto 59px}
+
+.lnb1{width:103px; height:23px;background:url(../images/sub/about/lnb1.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:80px}
+.lnb1:hover{width:103px; height:23px;background:url(../images/sub/about/lnb1_red.jpg) no-repeat}
+ 
+.lnb2{width:83px; height:23px;background:url(../images/sub/about/lnb2.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:80px}
+.lnb2:hover{width:83px; height:23px;background:url(../images/sub/about/lnb2_red.jpg) no-repeat}
+
+.lnb3{width:139px; height:23px;background:url(../images/sub/about/lnb3.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:80px}
+.lnb3:hover{width:139px; height:23px;background:url(../images/sub/about/lnb3_red.jpg) no-repeat}
+
+.lnb4{width:78px; height:23px;background:url(../images/sub/about/lnb4.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:80px}
+.lnb4:hover{width:78px; height:23px;background:url(../images/sub/about/lnb4_red.jpg) no-repeat}
+
+.lnb5{width:76px; height:23px;background:url(../images/sub/about/lnb5.jpg) no-repeat; text-indent:-9999px; float:left; margin-right:80px}
+.lnb5:hover{width:76px; height:23px;background:url(../images/sub/about/lnb5_red.jpg) no-repeat}
+
+.lnb6{width:119px; height:23px;background:url(../images/sub/about/lnb6.jpg) no-repeat; text-indent:-9999px; float:left}
+.lnb6:hover{width:119px; height:23px;background:url(../images/sub/about/lnb6_red.jpg) no-repeat}
+
+
+/*tab menu*/
+
+.tab_wrap{background:#faf7f7; border-radius: 0 0 50px 30px; height:40px}
+.tab{width:645px; margin:10px auto 0}
+.tab a{height:100%;display:block}
+.tab ul{padding-top:8px}
+
+.tab1{width:73px; height:30px; background:url(../images/sub/about/academy/lnb_tab1.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.tab1 a:hover{width:73px; height:30px; background:url(../images/sub/about/academy/lnb_tab1_bar.jpg)no-repeat}
+
+.tab2{width:90px; height:30px; background:url(../images/sub/about/academy/lnb_tab2.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.tab2 a:hover{width:90px; height:30px; background:url(../images/sub/about/academy/lnb_tab2_bar.jpg)no-repeat}
+
+.tab3{width:74px; height:30px; background:url(../images/sub/about/academy/lnb_tab3.jpg)no-repeat; text-indent:-9999px; float:left; margin-right:100px}
+.tab3 a:hover{width:74px; height:30px; background:url(../images/sub/about/academy/lnb_tab3_bar.jpg)no-repeat}
+
+.tab4{width:108px; height:30px; background:url(../images/sub/about/academy/lnb_tab4.jpg)no-repeat; text-indent:-9999px; float:left}
+.tab4 a:hover{width:108px; height:30px; background:url(../images/sub/about/academy/lnb_tab4_bar.jpg)no-repeat}
+
+
+
+/*locate*/
+.locate{width:1000px;margin:30px auto 0; position:relative; height:21px;}
+.locate1{float:left}
+.locate1:after{content:">"; margin:0 9px 0 5px}
+.locate2 {float:left}
+.locate2:after{content:">"; margin:0 9px 0 5px}
+
+
+
+
+
+
+/*main*/
+
+.cont{width:700px; margin: 80px auto 100px; position:relative}
+.cont h2{width:143px; height:33px; background: url(../images/sub/about/academy/title.jpg)no-repeat; text-indent:-9999px; margin-bottom: 20px}
+.cont h3{font-size:24px; margin-bottom:30px}
+.cont span{font-weight:bold; margin-right:15px}
+.cont .txt1{margin-bottom:30px}
+.cont .txt2{position:absolute; top:630px}
+.cont .txt2 ol li{list-style:auto}
+#map{width:700px; height:400px; margin:auto}
+button{width:100px; height:35px; background: url(../images/sub/about/academy/btn.jpg);text-indent:-9999px; margin:20px 0 50px 600px }
+
+@media screen and (max-width: 1024px){
+    .locate {width: 845px}
+}
+
+@media screen and (max-width: 960px){
+    .locate {width: 774px}
+}
