@@ -92,7 +92,7 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
                 <ul class="sub">
                     <li><a href="../../about.php">할리스소개</a></li>
                     <li><a href="#">매장 검색</a></li>
-                    <li><a href="#">할리스 아카데미</a></li>
+                    <li><a href="../../about_academy.php">할리스 아카데미</a></li>
                     <li><a href="#">채용안내</a></li>
                     <li><a href="#">가맹 문의</a></li>
                     <li><a href="#">B2B사업 소개</a></li>
@@ -266,7 +266,7 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
     <ul>
         <li class="quick_txt1"><a href="../coffee/menu_coffee.php">메뉴</a></li>
         <li class="quick_txt2"><a href="#">가맹문의</a></li>
-        <li class="quick_txt3"><a href="#">할리스 아카데미<a></li>
+        <li class="quick_txt3"><a href="../../about_academy.php">할리스 아카데미<a></li>
         <li class="quick_txt4"><a href="#">기업특판</a></li>
         <li class="quick_txt5"><a href="../../Hollys_news.php">이벤트<a></li>
     </ul>

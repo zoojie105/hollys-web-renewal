@@ -68,7 +68,8 @@
 .cont .txt2{position:absolute; top:630px}
 .cont .txt2 ol li{list-style:auto}
 #map{width:700px; height:400px; margin:auto}
-button{width:100px; height:35px; background: url(../images/sub/about/academy/btn.jpg);text-indent:-9999px; margin:20px 0 50px 600px }
+button[name="map"]{background: #fff; float:right;margin-top:5px}
+button[name="print"]{width:100px; height:35px; background: url(../images/sub/about/academy/btn.jpg);text-indent:-9999px; margin:20px 0 50px 600px }
 
 @media screen and (max-width: 1024px){
     .locate {width: 845px}

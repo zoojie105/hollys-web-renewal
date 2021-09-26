@@ -73,7 +73,7 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
                     <ul class="sub">
                         <li><a href="about.php">할리스소개</a></li>
                         <li><a href="#">매장 검색</a></li>
-                        <li><a href="#">할리스 아카데미</a></li>
+                        <li><a href="about_academy.php">할리스 아카데미</a></li>
                         <li><a href="#">채용안내</a></li>
                         <li><a href="#">가맹 문의</a></li>
                         <li><a href="#">B2B사업 소개</a></li>
@@ -140,7 +140,7 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
     <ul>
         <li class="locate1"><a href="index.php">Home</a></li>
         <li class="locate2"><a href="#none">ABOUT</a></li>
-        <li class="locate3"><a href="#none">할리스 아카데미</a></li>
+        <li class="locate3"><a href="about_academy.php">할리스 아카데미</a></li>
     </ul>
     </aside>
 
@@ -165,6 +165,7 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
     <div id="map"></div>
     <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7a0170f79bb9d55c03e87b3546e829cf"></script>
     <script>
+    //지도 생성
     var container = document.getElementById("map"); 
     var options = { 
         center: new kakao.maps.LatLng(37.56988, 126.98732), 
@@ -172,9 +173,29 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
         };
 
     var map = new kakao.maps.Map(container, options);
-    </script>
+    //지도 중심으로 이동
+    function setCenter() {            
+    var moveLatLon = new kakao.maps.LatLng(37.56988, 126.98732);
+    map.setCenter(moveLatLon);            
+    }        
 
-    <button type="button">약도 출력</button>
+    //마커 생성
+    var imageSrc = "../images/sub/about/academy/mark.png",
+        imageSize = new kakao.maps.Size(50, 75),
+        imageOption = {offset: new kakao.maps.Point(27, 69)};
+        
+    var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize, imageOption),
+        markerPosition = new kakao.maps.LatLng(37.56988, 126.98732); 
+
+    var marker = new kakao.maps.Marker({
+        position: markerPosition, 
+        image: markerImage 
+    });
+
+    marker.setMap(map);  
+    </script>
+    <button name="map" onclick="setCenter()">[원래 위치로 돌아가기]</button>
+    <button name="print" type="button">약도 출력</button>
     </section>
     
 
@@ -184,7 +205,7 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
         <ul>
             <li class="quick_txt1"><a href="menu/coffee/coffee.php">메뉴</a></li>
             <li class="quick_txt2"><a href="#">가맹문의</a></li>
-            <li class="quick_txt3"><a href="#">할리스 아카데미</a></li>
+            <li class="quick_txt3"><a href="about_academy.php">할리스 아카데미</a></li>
             <li class="quick_txt4"><a href="#">기업특판</a></li>
             <li class="quick_txt5"><a href="Hollys_news.php">이벤트</a></li>
         </ul>

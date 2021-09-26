@@ -211,7 +211,7 @@ $s_id = isset($_SESSION["s_id"])? $_SESSION["s_id"]:"";
         <ul>
             <li class="quick_txt1"><a href="menu/coffee/coffee.php">메뉴</a></li>
             <li class="quick_txt2"><a href="#">가맹문의</a></li>
-            <li class="quick_txt3"><a href="#">할리스 아카데미</a></li>
+            <li class="quick_txt3"><a href="about_academy.php">할리스 아카데미</a></li>
             <li class="quick_txt4"><a href="#">기업특판</a></li>
             <li class="quick_txt5"><a href="Hollys_news.php">이벤트</a></li>
         </ul>
